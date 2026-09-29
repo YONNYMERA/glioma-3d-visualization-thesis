@@ -1,0 +1,7 @@
+{
+  "best_epoch": 19,
+  "best_inner_val_dice": 0.9274727281750432,
+  "epochs_completed": 20,
+  "training_seconds": 12350.683407144621,
+  "checkpoint_sha256": "bc84f5ce5a241758317c8e1b16e480ec8311bf8eff272c51de27cd0b0fa21a2d"
+}

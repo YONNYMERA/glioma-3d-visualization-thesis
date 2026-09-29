@@ -1,0 +1,30 @@
+{
+  "complete_cohort_verified": true,
+  "expected_cases_per_model": 1250,
+  "expected_heldout_folds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "bootstrap_replicates": 2000,
+  "seed": 20260923,
+  "bootstrap_unit": "patient; scan means first; resample patients within fixed outer folds",
+  "ci_interpretation": "conditional on trained checkpoints; does not include retraining variance",
+  "nonfinite_policy": "exclude nonfinite scans per metric, then average available finite scans per patient; explicit case failure/undefined counts accompany each metric; paired differences require both scan values finite",
+  "surface_metrics": "HD95=max of directed voxel-center percentiles; ASSD=pooled directed voxel-center distances; SurfaceDice=MONAI area-weighted subvoxel surfaces at saved tolerance",
+  "size_cutoffs_ml": [
+    10.0,
+    50.0
+  ],
+  "size_cutoffs_interpretation": "prespecified exploratory thresholds, not clinical categories",
+  "diagnostic_unverified": false,
+  "n_cases_by_model": {
+    "nnunet": 1250,
+    "segresnet_baseline": 1250,
+    "unet_baseline": 1250
+  },
+  "timing_comparable": false,
+  "manifest_sha256": "f67351ece0c762564abc2fda59ffa8c2c05483e5a11fecd2a545f947348fc0da"
+}

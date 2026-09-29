@@ -1,0 +1,9 @@
+# Core versions recorded in the completed CEDIA experiment.
+# Install torch==2.5.1 separately with the appropriate CPU/CUDA wheel.
+monai==1.5.2
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+matplotlib==3.10.8
+nibabel==5.4.2
+scikit-learn==1.7.2

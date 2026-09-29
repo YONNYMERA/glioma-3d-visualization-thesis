@@ -1,0 +1,147 @@
+{
+  "schema": 1,
+  "weights": [
+    {
+      "model": "unet_baseline",
+      "path": "train/unet_baseline/fold_01/best.pth",
+      "bytes": 19311522,
+      "sha256": "a4081e0eacef4cbdce079872e43b9a4d7dea97ca5d817c20fd9f820a3519dbb1"
+    },
+    {
+      "model": "unet_baseline",
+      "path": "train/unet_baseline/fold_02/best.pth",
+      "bytes": 19311522,
+      "sha256": "949d1e07d800df2ae0f5d0f9a15e4bd617b96a3bda7ff818f980737050d98d55"
+    },
+    {
+      "model": "unet_baseline",
+      "path": "train/unet_baseline/fold_03/best.pth",
+      "bytes": 19311522,
+      "sha256": "a240e41fc6d08eb7ee8d82bc313e9565722b25552555e6f98d9249f492ff2f99"
+    },
+    {
+      "model": "unet_baseline",
+      "path": "train/unet_baseline/fold_04/best.pth",
+      "bytes": 19311522,
+      "sha256": "4bab2d7ac8ece20d8937e7e2d58d3b259515991e804efca99152af3b5e8537c7"
+    },
+    {
+      "model": "unet_baseline",
+      "path": "train/unet_baseline/fold_05/best.pth",
+      "bytes": 19311522,
+      "sha256": "7301cb881050834402501a8cb7daef214b0beb1bad9551c4194bf25cc8de7c46"
+    },
+    {
+      "model": "segresnet_baseline",
+      "path": "train/segresnet_baseline/fold_01/best.pth",
+      "bytes": 18841524,
+      "sha256": "347e52751f9a4e1a55bc0359183e240b0898a2430711abe191dc0db300735d57"
+    },
+    {
+      "model": "segresnet_baseline",
+      "path": "train/segresnet_baseline/fold_02/best.pth",
+      "bytes": 18841524,
+      "sha256": "85264171a4224890c2f437334f28360ecabcba5ec0e765b547c1881192beac85"
+    },
+    {
+      "model": "segresnet_baseline",
+      "path": "train/segresnet_baseline/fold_03/best.pth",
+      "bytes": 18841524,
+      "sha256": "f96e342a1b2583768698963f33bdb01fe83fac1705335f3f57ded01035de2149"
+    },
+    {
+      "model": "segresnet_baseline",
+      "path": "train/segresnet_baseline/fold_04/best.pth",
+      "bytes": 18841524,
+      "sha256": "bc84f5ce5a241758317c8e1b16e480ec8311bf8eff272c51de27cd0b0fa21a2d"
+    },
+    {
+      "model": "segresnet_baseline",
+      "path": "train/segresnet_baseline/fold_05/best.pth",
+      "bytes": 18841524,
+      "sha256": "9d10f15de9716b38b5e2126af62e6ce4dc14661c660ce4bb186b93aa37c72d7e"
+    },
+    {
+      "model": "nnunet",
+      "path": "nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/checkpoint_best.pth",
+      "bytes": 249736994,
+      "sha256": "eda60ed215180dd23fa3dd9616c6c156c73303e2c9f74edc255a065a964bcb61"
+    },
+    {
+      "model": "nnunet",
+      "path": "nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/checkpoint_best.pth",
+      "bytes": 249739298,
+      "sha256": "a9a111bf13c68935e0edc957e4d08adfc449f035d51fa3be8288ca861f49561a"
+    },
+    {
+      "model": "nnunet",
+      "path": "nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/checkpoint_best.pth",
+      "bytes": 246461538,
+      "sha256": "a70fe02de2db0178aa7db9dcfaee818c8265eefefde438fed815c5a0525bdb5a"
+    },
+    {
+      "model": "nnunet",
+      "path": "nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/checkpoint_best.pth",
+      "bytes": 246462498,
+      "sha256": "aab3d3f04e5df62878f7d04dade9d70910f48f1d7b084a6fa2036e9aba33d32e"
+    },
+    {
+      "model": "nnunet",
+      "path": "nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/checkpoint_best.pth",
+      "bytes": 249736994,
+      "sha256": "aa33198affcec0cb988e78a77cc2b57f265ecb7b7b127516103ebbd11f1fe692"
+    },
+    {
+      "model": "historical_app",
+      "path": "MODELS/best_metric_model_fold_01.pth",
+      "bytes": 19310489,
+      "sha256": "b0bbd405f339e19acd2e6209378d57080a85a7dbb774c218e20472fee7407fff"
+    },
+    {
+      "model": "historical_app",
+      "path": "MODELS/best_metric_model_fold_02.pth",
+      "bytes": 19310489,
+      "sha256": "1b9be8b9ef48cfdaed8d1f11c4bce667e8d99a79b4b74d49395eb54341315fe0"
+    },
+    {
+      "model": "historical_app",
+      "path": "MODELS/best_metric_model_fold_03.pth",
+      "bytes": 19310489,
+      "sha256": "016f4ddb25440fcc70f8052552858d348df658d092394bd6074e81c5faa0f7e6"
+    },
+    {
+      "model": "historical_app",
+      "path": "MODELS/best_metric_model_fold_04.pth",
+      "bytes": 19310489,
+      "sha256": "e9f815210e1f4611b7281b755a5a5aeee33dd87c6e96a40d85e62029a74e6729"
+    },
+    {
+      "model": "historical_app",
+      "path": "MODELS/best_metric_model_fold_05.pth",
+      "bytes": 19310489,
+      "sha256": "ba4cec153fec7023fd80040a65acd628a360a9dd249502f6ae7774a687a96b4c"
+    }
+  ],
+  "archives": [
+    {
+      "name": "02_pesos_unet_baseline.tar.gz",
+      "sha256": "44d8f32d6b457d54594883243bc26d2374be725ae446816cfd6b1fe254ebf576",
+      "model": "unet_baseline"
+    },
+    {
+      "name": "03_pesos_segresnet_baseline.tar.gz",
+      "sha256": "10a4087e4b29b2314ab0bc3bebcb0345fbc6911944008bb587b6cddef97644e0",
+      "model": "segresnet_baseline"
+    },
+    {
+      "name": "04_pesos_nnunet.tar.gz",
+      "sha256": "5f88654550630a986cf9b04b6a7182721a55ca2981921f8b002ec8cc55ac6df0",
+      "model": "nnunet"
+    },
+    {
+      "name": "05_pesos_prototipo_historico.tar.gz",
+      "sha256": "c27d6758af07bc1a8abe70b478ef53e5ca99fe6db6d367071bf09ad5ed0fc18d",
+      "model": "historical_app"
+    }
+  ]
+}

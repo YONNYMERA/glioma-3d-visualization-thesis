@@ -1,0 +1,30 @@
+[
+  {
+    "stem": "training_unet_segresnet",
+    "caption_en": "Training loss and inner-validation whole-volume Dice for the five patient-grouped outer folds of 3D U-Net and SegResNet (20 epochs each). Each curve is one fold; the inner-validation scores select checkpoints and are not held-out evaluation scores. Loss is the implemented Dice plus cross-entropy objective; identical axis scales within the validation column allow comparison of the recorded trajectories."
+  },
+  {
+    "stem": "training_nnunet",
+    "caption_en": "nnU-Net trajectories for the five outer folds (100 epochs). Native epoch indices 0--99 are displayed as completed epochs 1--100. Training/validation losses and patch-aggregated pseudo Dice come from the text logs; they are not the held-out whole-volume Dice used in the main comparison. Bottom right shows the best EMA pseudo Dice reached so far, obtained only from exact logged checkpoint-improvement values and held constant between improvements; it is not the complete EMA trajectory. Pseudo Dice values in the text logs are rounded to four decimals. Negative nnU-Net losses are expected from its loss formulation and must not be numerically compared with the MONAI loss."
+  },
+  {
+    "stem": "metric_comparison",
+    "caption_en": "Patient-level mean and 95% confidence interval for Dice, surface Dice at 1 mm, HD95 and ASSD. Repeated scans are averaged within each patient before 2,000 bootstrap resamples within the fixed outer folds. The intervals are conditional on the trained checkpoints, not retraining uncertainty. Distance means use finite scans: one empty U-Net prediction has infinite HD95/ASSD and is excluded from those two means, but remains a Dice=0 failure. All models cover the same 1,250 scans from 1,132 patients. The vertical axes are zoomed and do not imply a zero baseline."
+  },
+  {
+    "stem": "confusion_matrices",
+    "caption_en": "Pooled voxel-level binary confusion matrices across all 1,250 held-out scans. Cell colors and percentages are normalized within each reference row; the second line gives the raw voxel count. Background includes the common RAS 1-mm foreground-cropped and divisibility-padded evaluation grid, not only brain parenchyma. These are segmentation counts, not patient-classification matrices; pooling weights scans by their number of voxels and differs from the patient-level macro averages in the results table."
+  },
+  {
+    "stem": "metric_distributions",
+    "caption_en": "Distributions of patient-level Dice and finite HD95 after averaging repeated scans within each patient. Boxes show the median and interquartile range, whiskers extend to 1.5 times the interquartile range, and dots retain more extreme values; violin outlines are descriptive kernel-density estimates. HD95 uses a logarithmic axis and excludes the one infinite U-Net distance caused by an empty prediction. Dice includes that failure."
+  },
+  {
+    "stem": "volumetric_agreement",
+    "caption_en": "Patient-level volumetric agreement for the three models (1,132 patients; repeated scans averaged first). Top: reference versus predicted whole-tumor volume with the identity line; squared Pearson correlation and predictive R\u00b2 are distinct statistics. Bottom: Bland-Altman differences (prediction minus reference), mean bias (solid) and bias \u00b11.96 sample standard deviations (dashed; ddof=1). These limits describe observed agreement and are not clinical acceptance limits. All patients are shown, with common axes across models."
+  },
+  {
+    "stem": "size_strata",
+    "caption_en": "Patient-level means and bootstrap 95% confidence intervals within prespecified exploratory reference-volume strata: <10 mL (24 scans), 10 to <50 mL (297), and \u226550 mL (929). Scan counts are common to the three models. Repeated scans are averaged within each patient and stratum; a patient may contribute to more than one stratum. The small-volume stratum is sparse. Infinite distance values are omitted from the finite HD95 means, including one U-Net failure in the small stratum. These cutoffs are not clinical tumor categories."
+  }
+]

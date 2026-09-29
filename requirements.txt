@@ -1,0 +1,6 @@
+-r cedia/requirements.txt
+# Application dependencies; separate from the benchmark training protocol.
+streamlit>=1.40,<2
+plotly>=5.24,<7
+scikit-image==0.25.2
+trimesh

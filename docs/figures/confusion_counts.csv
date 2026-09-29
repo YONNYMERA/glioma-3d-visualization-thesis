@@ -1,0 +1,13 @@
+Model,Reference,Prediction,Voxel_count,Row_percent
+unet_baseline,Background,Background,4510585168,99.82292086809565
+unet_baseline,Background,Whole tumor,8001474,0.17707913190436061
+unet_baseline,Whole tumor,Background,10654657,8.879014758472607
+unet_baseline,Whole tumor,Whole tumor,109343533,91.12098524152739
+segresnet_baseline,Background,Background,4511746560,99.84862341829584
+segresnet_baseline,Background,Whole tumor,6840082,0.15137658170415136
+segresnet_baseline,Whole tumor,Background,9340898,7.784199078336099
+segresnet_baseline,Whole tumor,Whole tumor,110657292,92.2158009216639
+nnunet,Background,Background,4513496481,99.88735059426132
+nnunet,Background,Whole tumor,5090161,0.11264940573867167
+nnunet,Whole tumor,Background,8632899,7.194191012381103
+nnunet,Whole tumor,Whole tumor,111365291,92.8058089876189

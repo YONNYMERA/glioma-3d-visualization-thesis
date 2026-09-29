@@ -1,0 +1,1280 @@
+[
+  {
+    "path": "cedia/analysis.py",
+    "source_sha256": "cab65e972e57531f0429ebba53a650c01732faa527776f59c28f01ba8cf89694",
+    "distributed_sha256": "cab65e972e57531f0429ebba53a650c01732faa527776f59c28f01ba8cf89694",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/cli.py",
+    "source_sha256": "1e0d6a3c3edb3a5a88226421242431cad0ce30a8b02d1e945bb204dfd69b1b0d",
+    "distributed_sha256": "1e0d6a3c3edb3a5a88226421242431cad0ce30a8b02d1e945bb204dfd69b1b0d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/evaluate_original.sh",
+    "source_sha256": "f630a35108fb244de41a9d2d7c41178bb2ad6509d3b0faf19366eee4a7627c50",
+    "distributed_sha256": "94de5158da1b2496472947302ca6e75f82febea0ee096d946fa1f11ea36fd514",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "cedia/figures.py",
+    "source_sha256": "7fe705fe47ae1beb2dba14b295dcc55e677f9d4c1b4ba74a352ac53ded6d94ed",
+    "distributed_sha256": "7fe705fe47ae1beb2dba14b295dcc55e677f9d4c1b4ba74a352ac53ded6d94ed",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/manifest.py",
+    "source_sha256": "7dc17167117235a4c8bf56596a1d1cbc7ec3c309fe7aec16c4c65e585d25a4bd",
+    "distributed_sha256": "7dc17167117235a4c8bf56596a1d1cbc7ec3c309fe7aec16c4c65e585d25a4bd",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/metrics.py",
+    "source_sha256": "55d1385cc2e1a9510208e315741d00df4ae6648ef741f33faf56733c3dce8b00",
+    "distributed_sha256": "55d1385cc2e1a9510208e315741d00df4ae6648ef741f33faf56733c3dce8b00",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/models.py",
+    "source_sha256": "afa8a4c5c3f268fb62b1ed6acbf6f78776073a3c2b202ef1a927065a694fee51",
+    "distributed_sha256": "afa8a4c5c3f268fb62b1ed6acbf6f78776073a3c2b202ef1a927065a694fee51",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/nnunet.py",
+    "source_sha256": "147fe510ad11e0b39bfb194e7696618ce354c43dd9300d122227a9523bcef43c",
+    "distributed_sha256": "147fe510ad11e0b39bfb194e7696618ce354c43dd9300d122227a9523bcef43c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/PESOS_ORIGINALES_SHA256.json",
+    "source_sha256": "959e5bb5a6cfa14b7031a95737f26157c7b32b35549292a43a47bf06eff94b62",
+    "distributed_sha256": "17d72f702b6d861c7a2658a7452dde2386e9cabb16f9adb78eee4e2ed99c2bb2",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "cedia/requirements.txt",
+    "source_sha256": "88c72d008cf0088f38ddbded3726fca8ff960d6aa7071fa1b68fe5cc07520903",
+    "distributed_sha256": "bf9455d0047c8d870d9e5a1adf01843871183a2b9ceb19136a09b027c04063ab",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "cedia/runner.py",
+    "source_sha256": "32e5b6a7090648c37eb0aca9d67284d0f10d83e406de3819d80286605e2143ad",
+    "distributed_sha256": "32e5b6a7090648c37eb0aca9d67284d0f10d83e406de3819d80286605e2143ad",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/run_fold.sh",
+    "source_sha256": "5f09a819e2ea9734a59ed2e506b1f9fbc1d8516129c2f0668b292b8b924bc70e",
+    "distributed_sha256": "5f09a819e2ea9734a59ed2e506b1f9fbc1d8516129c2f0668b292b8b924bc70e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/run_nnunet_fold.sh",
+    "source_sha256": "2e396666f50c5a7ab1b27491040f71d94ac6170e4fcb5cf2d80ed4253d05a0d5",
+    "distributed_sha256": "2e396666f50c5a7ab1b27491040f71d94ac6170e4fcb5cf2d80ed4253d05a0d5",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/slurm_job.sh",
+    "source_sha256": "93ce2b73a8b7e1662028cbb62b47a81395ea30ff2aeecbfaa4dccd29089abb57",
+    "distributed_sha256": "93ce2b73a8b7e1662028cbb62b47a81395ea30ff2aeecbfaa4dccd29089abb57",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/__init__.py",
+    "source_sha256": "4158effcac8b2c750de52e8116bc89932811c9f75245513a3547f5fea55d30d5",
+    "distributed_sha256": "4158effcac8b2c750de52e8116bc89932811c9f75245513a3547f5fea55d30d5",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/tests/test_analysis_cohort.py",
+    "source_sha256": "590fe86cfeb1b8da48640bab4f42ceba85f8c8447e276851e1fd408f419cfa8b",
+    "distributed_sha256": "590fe86cfeb1b8da48640bab4f42ceba85f8c8447e276851e1fd408f419cfa8b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/tests/test_nnunet_protocol.py",
+    "source_sha256": "6251606ee49f0a3e65298c8834633feceb0fc344f8767a4f8bff296bdeee024c",
+    "distributed_sha256": "6251606ee49f0a3e65298c8834633feceb0fc344f8767a4f8bff296bdeee024c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/tests/test_original_inventory.py",
+    "source_sha256": "5256ff563330e39e3123462e4396f46afd582e7b93e3faff24d1bbf7d183337d",
+    "distributed_sha256": "5256ff563330e39e3123462e4396f46afd582e7b93e3faff24d1bbf7d183337d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "cedia/tests/test_pipeline.py",
+    "source_sha256": "734cb4f73f0fa669ab167081e36e5511dded7bb2d51a1f523600d0505c3cf51c",
+    "distributed_sha256": "734cb4f73f0fa669ab167081e36e5511dded7bb2d51a1f523600d0505c3cf51c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "app.py",
+    "source_sha256": "8a1fbb2e9d788698726c7df73c39666f5e78ffc5bae9e5c979ce4721c9b863b7",
+    "distributed_sha256": "319a3d37b51cf981b28167191ebce2fcf24618eb60b8029086b57efec701bc2b",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "backend.py",
+    "source_sha256": "910d54ecd15b902756dd03ff234099ef2f3c2ae34727c7bba4fcc0f20887e4c7",
+    "distributed_sha256": "56ba8c0f8b35fd645029cd56443fb4c7e3336a519e8d11dd90f181d8eacfdea5",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "provenance/manifest_por_paciente.json",
+    "source_sha256": "524093025047afff38c2918b60505d538e94b56fccfa883e86856fec20e1ec5f",
+    "distributed_sha256": "524093025047afff38c2918b60505d538e94b56fccfa883e86856fec20e1ec5f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/all_cases.csv",
+    "source_sha256": "ae756ea96e7aad6df9c17b3a2ebdd99a207bc65bcaf4e5d2e7a3ac7b0001ceba",
+    "distributed_sha256": "ae756ea96e7aad6df9c17b3a2ebdd99a207bc65bcaf4e5d2e7a3ac7b0001ceba",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/analysis_protocol.json",
+    "source_sha256": "b1653ac5cdfa939efa1bf8d4b3158e3950ca0e1a5701b067b012a79a4f797c2c",
+    "distributed_sha256": "b1653ac5cdfa939efa1bf8d4b3158e3950ca0e1a5701b067b012a79a4f797c2c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/architecture_comparison.pdf",
+    "source_sha256": "60875b14aedb1b65a0220e47dc9a4b0c2afa7815c3f56ca293d2c85c9118d110",
+    "distributed_sha256": "60875b14aedb1b65a0220e47dc9a4b0c2afa7815c3f56ca293d2c85c9118d110",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/architecture_comparison.png",
+    "source_sha256": "821ab8fe58d0a3022cd4f5214b6920f9c056cff156c2ba475569e94d35a55541",
+    "distributed_sha256": "821ab8fe58d0a3022cd4f5214b6920f9c056cff156c2ba475569e94d35a55541",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/nnunet_lowest_dice.csv",
+    "source_sha256": "4ab901e3d989d4b1d5dd55ace5471558b46fa595796865f00857b8cb1a85fbd7",
+    "distributed_sha256": "4ab901e3d989d4b1d5dd55ace5471558b46fa595796865f00857b8cb1a85fbd7",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/nnunet_size_strata.png",
+    "source_sha256": "77468e51ab70f95cae2cdbc2a91816781b0118c0757faf4807e2f9ee5314fbc4",
+    "distributed_sha256": "77468e51ab70f95cae2cdbc2a91816781b0118c0757faf4807e2f9ee5314fbc4",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/nnunet_volumetry.png",
+    "source_sha256": "1e3993468d7865ef09c7c258788b55a58996796278bddae5b0d2d340a19f0837",
+    "distributed_sha256": "1e3993468d7865ef09c7c258788b55a58996796278bddae5b0d2d340a19f0837",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/outliers_for_review.csv",
+    "source_sha256": "630913edb41b137354bc60db0c8ff1dcb4bd2ddde424f1566f555fd044003c3c",
+    "distributed_sha256": "630913edb41b137354bc60db0c8ff1dcb4bd2ddde424f1566f555fd044003c3c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/paired_patient_differences.csv",
+    "source_sha256": "b1cfc336e6333d6aef392ccf099b15c92e45f6d736e2afb3935af877085792e1",
+    "distributed_sha256": "b1cfc336e6333d6aef392ccf099b15c92e45f6d736e2afb3935af877085792e1",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/segresnet_baseline_lowest_dice.csv",
+    "source_sha256": "e0da3b9fb53b36fa1e8c1e6a38129ebaa03a2e422f3a3f6b4b75282b3d7a586f",
+    "distributed_sha256": "e0da3b9fb53b36fa1e8c1e6a38129ebaa03a2e422f3a3f6b4b75282b3d7a586f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/segresnet_baseline_size_strata.png",
+    "source_sha256": "2b0cc7968d076624a451e7647c023b7427439097d2edf92d655b67628bcbbae1",
+    "distributed_sha256": "2b0cc7968d076624a451e7647c023b7427439097d2edf92d655b67628bcbbae1",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/segresnet_baseline_volumetry.png",
+    "source_sha256": "e41e33c651970c569b0d7de93378abb75c986beb48ce376d48b7691535cf6fc8",
+    "distributed_sha256": "e41e33c651970c569b0d7de93378abb75c986beb48ce376d48b7691535cf6fc8",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/summary_ci_and_size.csv",
+    "source_sha256": "5ddf6919dfa2e8b7731b5a10047af6d1e88ff7083dea2f7928bd8b5d1bb81bca",
+    "distributed_sha256": "5ddf6919dfa2e8b7731b5a10047af6d1e88ff7083dea2f7928bd8b5d1bb81bca",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/unet_baseline_lowest_dice.csv",
+    "source_sha256": "1f17c515fed15e50c4befd2862d4b0bdbc839418476cc6483e007976a6d59ffa",
+    "distributed_sha256": "1f17c515fed15e50c4befd2862d4b0bdbc839418476cc6483e007976a6d59ffa",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/unet_baseline_size_strata.png",
+    "source_sha256": "d73d224d79021d18dfc97e646ddcb2b0d917122312d2557de18ca1d1b1946586",
+    "distributed_sha256": "d73d224d79021d18dfc97e646ddcb2b0d917122312d2557de18ca1d1b1946586",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/unet_baseline_volumetry.png",
+    "source_sha256": "9293e129639cd159f11a703e9f28e5e14547576d5e1f6d8f3752b807870b008d",
+    "distributed_sha256": "9293e129639cd159f11a703e9f28e5e14547576d5e1f6d8f3752b807870b008d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/comparacion_tres_modelos/volumetric_agreement.csv",
+    "source_sha256": "3eb0cb8323ceeb018d675d460f9b439e312e824e81b16f5a65f55530636bca08",
+    "distributed_sha256": "3eb0cb8323ceeb018d675d460f9b439e312e824e81b16f5a65f55530636bca08",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_01/run.json",
+    "source_sha256": "5cc1a422447937a296275dd7437a8a9e29387b53e55710968e4019f81f92e53f",
+    "distributed_sha256": "5cc1a422447937a296275dd7437a8a9e29387b53e55710968e4019f81f92e53f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_01/TRAINING_COMPLETED.json",
+    "source_sha256": "9296139af8b6ef1338cb6932066bbb65ce811be1b27b86479ccfdcdb6c813675",
+    "distributed_sha256": "9296139af8b6ef1338cb6932066bbb65ce811be1b27b86479ccfdcdb6c813675",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_01/training_log.csv",
+    "source_sha256": "cf1a9a999bad784dff39f2730b3d1e728b118cd2bcf5df87eaa675752b4e587f",
+    "distributed_sha256": "cf1a9a999bad784dff39f2730b3d1e728b118cd2bcf5df87eaa675752b4e587f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_02/run.json",
+    "source_sha256": "356a885e46c6a2fc8509d40c236aa5a1461e61f4dc6199d098ef211d1a58ed12",
+    "distributed_sha256": "356a885e46c6a2fc8509d40c236aa5a1461e61f4dc6199d098ef211d1a58ed12",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_02/TRAINING_COMPLETED.json",
+    "source_sha256": "af567010dae376f358163bee52d2f04081977a7836db42b5581145a0611ea4b9",
+    "distributed_sha256": "af567010dae376f358163bee52d2f04081977a7836db42b5581145a0611ea4b9",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_02/training_log.csv",
+    "source_sha256": "511d0ddf6917f66e8fc2894da0c26d559c012344c6c8b0a2317f0fbf79f68e9b",
+    "distributed_sha256": "511d0ddf6917f66e8fc2894da0c26d559c012344c6c8b0a2317f0fbf79f68e9b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_03/run.json",
+    "source_sha256": "84991bac8473c831fc255c3eafd6394f9c2bc7faae44087b90372e4120c481af",
+    "distributed_sha256": "84991bac8473c831fc255c3eafd6394f9c2bc7faae44087b90372e4120c481af",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_03/TRAINING_COMPLETED.json",
+    "source_sha256": "7a586504e9fe0f09821423cd16739375fae45b69fe918e0deb4f86ef7e3e0aa0",
+    "distributed_sha256": "7a586504e9fe0f09821423cd16739375fae45b69fe918e0deb4f86ef7e3e0aa0",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_03/training_log.csv",
+    "source_sha256": "53f44bf9da27eda15ee1868207f8af125a7433c0b2637df438cb7491774ea731",
+    "distributed_sha256": "53f44bf9da27eda15ee1868207f8af125a7433c0b2637df438cb7491774ea731",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_04/run.json",
+    "source_sha256": "b7e18b619534032e9e203618dc086075b6d66fd494a5a14af73ecf52cfdb2cb5",
+    "distributed_sha256": "b7e18b619534032e9e203618dc086075b6d66fd494a5a14af73ecf52cfdb2cb5",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_04/TRAINING_COMPLETED.json",
+    "source_sha256": "202d2a197e69f959df295b8318ea3e72658c9029567a1281285164d68c19fce7",
+    "distributed_sha256": "202d2a197e69f959df295b8318ea3e72658c9029567a1281285164d68c19fce7",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_04/training_log.csv",
+    "source_sha256": "91e165d38aeecd58788c97e64fc687a12656c42bb9a7db99cdb309d84edf0793",
+    "distributed_sha256": "91e165d38aeecd58788c97e64fc687a12656c42bb9a7db99cdb309d84edf0793",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_05/run.json",
+    "source_sha256": "ced14fe6cb3d5fac1f94a45729ecb0c7e06723a320de9bdae4cee1dec7b6fbe2",
+    "distributed_sha256": "ced14fe6cb3d5fac1f94a45729ecb0c7e06723a320de9bdae4cee1dec7b6fbe2",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_05/TRAINING_COMPLETED.json",
+    "source_sha256": "9d7b10ca641806145bb73715293edf861a962ecefecf95dc3b6f7fc66e2e4a94",
+    "distributed_sha256": "9d7b10ca641806145bb73715293edf861a962ecefecf95dc3b6f7fc66e2e4a94",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/segresnet_baseline/fold_05/training_log.csv",
+    "source_sha256": "47533a8fb0a37d17073d3b998619bcd8a8132be2062d4efe4ef2eb1689a4740c",
+    "distributed_sha256": "47533a8fb0a37d17073d3b998619bcd8a8132be2062d4efe4ef2eb1689a4740c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_01/run.json",
+    "source_sha256": "30a1c64c8b0072dd3842ea3db0010407d6df6803d94526e992c4ee3cfc1d5839",
+    "distributed_sha256": "30a1c64c8b0072dd3842ea3db0010407d6df6803d94526e992c4ee3cfc1d5839",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_01/TRAINING_COMPLETED.json",
+    "source_sha256": "6d65db819f8d52552543f2939a5ef64cd06d010afb104062a5d31697a30629eb",
+    "distributed_sha256": "6d65db819f8d52552543f2939a5ef64cd06d010afb104062a5d31697a30629eb",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_01/training_log.csv",
+    "source_sha256": "0bd9e64c5af81af31fdc5659addbb1fb3cb2907c1aeea700f2144ae740b30652",
+    "distributed_sha256": "0bd9e64c5af81af31fdc5659addbb1fb3cb2907c1aeea700f2144ae740b30652",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_02/run.json",
+    "source_sha256": "ca2047b80accbc74aad0a94d4ff6ac4a5d539931fd336e0d98cc027574fb62e0",
+    "distributed_sha256": "ca2047b80accbc74aad0a94d4ff6ac4a5d539931fd336e0d98cc027574fb62e0",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_02/TRAINING_COMPLETED.json",
+    "source_sha256": "bf2555da7e776847dfea8f5a8c2803e7aca1b47df9314379b042f97f5bf3df3c",
+    "distributed_sha256": "bf2555da7e776847dfea8f5a8c2803e7aca1b47df9314379b042f97f5bf3df3c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_02/training_log.csv",
+    "source_sha256": "cd89d25a72c6fc8637530a8b459bb1f9fea99f6642ef84cbc87d336c7fda23b5",
+    "distributed_sha256": "cd89d25a72c6fc8637530a8b459bb1f9fea99f6642ef84cbc87d336c7fda23b5",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_03/run.json",
+    "source_sha256": "072fa0922dfa877551c6a0172ed40cdbecb49d468acd9db18a27aab55511ba95",
+    "distributed_sha256": "072fa0922dfa877551c6a0172ed40cdbecb49d468acd9db18a27aab55511ba95",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_03/TRAINING_COMPLETED.json",
+    "source_sha256": "6b2b1392ac77c433088ae998cd24897a7aa4d94cdd044f904465a76876e4c121",
+    "distributed_sha256": "6b2b1392ac77c433088ae998cd24897a7aa4d94cdd044f904465a76876e4c121",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_03/training_log.csv",
+    "source_sha256": "9040d9ff3c98583498b42c693d2e4867c018cfc6ff45e51184ca0b72d99cd462",
+    "distributed_sha256": "9040d9ff3c98583498b42c693d2e4867c018cfc6ff45e51184ca0b72d99cd462",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_04/run.json",
+    "source_sha256": "3edc0414b13bb471bcc1e91c07023a7425050aab4429fd99029bad4899bb1742",
+    "distributed_sha256": "3edc0414b13bb471bcc1e91c07023a7425050aab4429fd99029bad4899bb1742",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_04/TRAINING_COMPLETED.json",
+    "source_sha256": "0ee86708cb007f010a15c63070b351d32ba925041f6059405940ac382662fe1d",
+    "distributed_sha256": "0ee86708cb007f010a15c63070b351d32ba925041f6059405940ac382662fe1d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_04/training_log.csv",
+    "source_sha256": "d6119cf9dae2399a9a60c13f68086a53b87cc2f14d7ae53566aad3479d2111cc",
+    "distributed_sha256": "d6119cf9dae2399a9a60c13f68086a53b87cc2f14d7ae53566aad3479d2111cc",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_05/run.json",
+    "source_sha256": "758878eb6c1c6b81c0c1afdeb11d56e9040e637f604305ead35c81d7318b457c",
+    "distributed_sha256": "758878eb6c1c6b81c0c1afdeb11d56e9040e637f604305ead35c81d7318b457c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_05/TRAINING_COMPLETED.json",
+    "source_sha256": "64e90bb26625a383cd9b4086a222bf1ddde8cb535a6421e4f3288f3c4b6654dd",
+    "distributed_sha256": "64e90bb26625a383cd9b4086a222bf1ddde8cb535a6421e4f3288f3c4b6654dd",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/train/unet_baseline/fold_05/training_log.csv",
+    "source_sha256": "e4f8a0c5809d1b9213401d124bc983367f8c58ca8e4880f02cabb7d43bee2ffb",
+    "distributed_sha256": "e4f8a0c5809d1b9213401d124bc983367f8c58ca8e4880f02cabb7d43bee2ffb",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_01/EVALUATION_COMPLETED.json",
+    "source_sha256": "25b0f49a1b0575ced69f7758ae37c4f8dfc7768460e22ffa99b5a55d898ed8d9",
+    "distributed_sha256": "25b0f49a1b0575ced69f7758ae37c4f8dfc7768460e22ffa99b5a55d898ed8d9",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_01/metrics.csv",
+    "source_sha256": "116b55eb6b1fc1600b4605aaf8387b100341cf195405360831d2fb006db63c23",
+    "distributed_sha256": "116b55eb6b1fc1600b4605aaf8387b100341cf195405360831d2fb006db63c23",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_01/run.json",
+    "source_sha256": "900a2cd2246f54cca0642927699de2c1a6fbc95e1f004530a861537a52ad5d1d",
+    "distributed_sha256": "900a2cd2246f54cca0642927699de2c1a6fbc95e1f004530a861537a52ad5d1d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_02/EVALUATION_COMPLETED.json",
+    "source_sha256": "ac594f40a87b29c8c7e1bfef26d3bc6e0ac55961be32b32d783fe9df0e567767",
+    "distributed_sha256": "ac594f40a87b29c8c7e1bfef26d3bc6e0ac55961be32b32d783fe9df0e567767",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_02/metrics.csv",
+    "source_sha256": "ca15ebcdcd95a4dfb395fb84198f49094dcbfb770fa37f6e609b70aebbbaaf43",
+    "distributed_sha256": "ca15ebcdcd95a4dfb395fb84198f49094dcbfb770fa37f6e609b70aebbbaaf43",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_02/run.json",
+    "source_sha256": "6bd70c3d4a2f1aebbf043887c93d76ab2d070eeea65a8a448d287e3779ce596a",
+    "distributed_sha256": "6bd70c3d4a2f1aebbf043887c93d76ab2d070eeea65a8a448d287e3779ce596a",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_03/EVALUATION_COMPLETED.json",
+    "source_sha256": "e0650edbed6b426aa615b3b86759a9b4a318ee41f326fb699ca1941c970d03f1",
+    "distributed_sha256": "e0650edbed6b426aa615b3b86759a9b4a318ee41f326fb699ca1941c970d03f1",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_03/metrics.csv",
+    "source_sha256": "f8bc897e49ca981465985f2fa85932ae3d9fc5411a6f1e88fb94bf96ed09d16d",
+    "distributed_sha256": "f8bc897e49ca981465985f2fa85932ae3d9fc5411a6f1e88fb94bf96ed09d16d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_03/run.json",
+    "source_sha256": "a1f7a89a8ea83a857ea9c17bb3064b98f2eee819efdd37fc65b956c3a0ff0f66",
+    "distributed_sha256": "a1f7a89a8ea83a857ea9c17bb3064b98f2eee819efdd37fc65b956c3a0ff0f66",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_04/EVALUATION_COMPLETED.json",
+    "source_sha256": "068bd2c099b9ccb5603db7d48617e8de53ab9c4e1c5b5e00001a9bdd90dbb678",
+    "distributed_sha256": "068bd2c099b9ccb5603db7d48617e8de53ab9c4e1c5b5e00001a9bdd90dbb678",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_04/metrics.csv",
+    "source_sha256": "dd1e7a1a9be39dd603984cd6ea35b6c426d9c366d9b70ac2e754ca17d8aac1b6",
+    "distributed_sha256": "dd1e7a1a9be39dd603984cd6ea35b6c426d9c366d9b70ac2e754ca17d8aac1b6",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_04/run.json",
+    "source_sha256": "e2d72a8792174d0e66bc17c51e9f1ebb9cca09bf5568e30cfa69b2aba8b5dc49",
+    "distributed_sha256": "e2d72a8792174d0e66bc17c51e9f1ebb9cca09bf5568e30cfa69b2aba8b5dc49",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_05/EVALUATION_COMPLETED.json",
+    "source_sha256": "0667b1c8e915dac3eb3fb943ff546c4b3bb4f479531bb729365aa54fd8be521a",
+    "distributed_sha256": "0667b1c8e915dac3eb3fb943ff546c4b3bb4f479531bb729365aa54fd8be521a",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_05/metrics.csv",
+    "source_sha256": "4c76895a9ea23664a49dc4bccd68cfa50d8909caa9d09c0eadc5a27e5ed45fb9",
+    "distributed_sha256": "4c76895a9ea23664a49dc4bccd68cfa50d8909caa9d09c0eadc5a27e5ed45fb9",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/nnunet/fold_05/run.json",
+    "source_sha256": "0757ad19de37b72790f2aaa50baa026228b5915b0eafccc66c61f41a0175ba2e",
+    "distributed_sha256": "0757ad19de37b72790f2aaa50baa026228b5915b0eafccc66c61f41a0175ba2e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_01/EVALUATION_COMPLETED.json",
+    "source_sha256": "529315d146c7c0ba95a473f2e9e5248fb16b4dd4d416a5bf38ea355a5081e181",
+    "distributed_sha256": "529315d146c7c0ba95a473f2e9e5248fb16b4dd4d416a5bf38ea355a5081e181",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_01/metrics.csv",
+    "source_sha256": "a54a3bec9cc81a92b43e3f7be8c83f6d9869146084a650803d3e066de791f996",
+    "distributed_sha256": "a54a3bec9cc81a92b43e3f7be8c83f6d9869146084a650803d3e066de791f996",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_01/run.json",
+    "source_sha256": "e7154888310ae996ee38fc412f9549b4878791e476e9d0517ee562ec610c9d7b",
+    "distributed_sha256": "e7154888310ae996ee38fc412f9549b4878791e476e9d0517ee562ec610c9d7b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_02/EVALUATION_COMPLETED.json",
+    "source_sha256": "4baf8c0d7ddc9b0e45cba183e38fdc4ac8aeecfcc0359c066edeb8bc566323c6",
+    "distributed_sha256": "4baf8c0d7ddc9b0e45cba183e38fdc4ac8aeecfcc0359c066edeb8bc566323c6",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_02/metrics.csv",
+    "source_sha256": "81246db8533de52fed8c2bc26ac1bc61da11e09e3aefc3b0e6d58b1021cf1ff0",
+    "distributed_sha256": "81246db8533de52fed8c2bc26ac1bc61da11e09e3aefc3b0e6d58b1021cf1ff0",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_02/run.json",
+    "source_sha256": "31335d6f9dd27a6df1c7c0af3385c506f286ef4d043c7cd79afed420fb25ae88",
+    "distributed_sha256": "31335d6f9dd27a6df1c7c0af3385c506f286ef4d043c7cd79afed420fb25ae88",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_03/EVALUATION_COMPLETED.json",
+    "source_sha256": "48d39bdbef0cc42ba8d91263d136e761b70cd38837e9c87d21cb8dd48f53b263",
+    "distributed_sha256": "48d39bdbef0cc42ba8d91263d136e761b70cd38837e9c87d21cb8dd48f53b263",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_03/metrics.csv",
+    "source_sha256": "637c9bbb52c66c2a2238d2e12b036fe5c8c0ebbd8d3fd6abec27c171acf9d937",
+    "distributed_sha256": "637c9bbb52c66c2a2238d2e12b036fe5c8c0ebbd8d3fd6abec27c171acf9d937",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_03/run.json",
+    "source_sha256": "05fbf9db190f04f101ae0174a0c85e992ad0e20469f8710dc7ea973c92f84ec9",
+    "distributed_sha256": "05fbf9db190f04f101ae0174a0c85e992ad0e20469f8710dc7ea973c92f84ec9",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_04/EVALUATION_COMPLETED.json",
+    "source_sha256": "30c68a5efe1ee9f4bbb8684c51fc98cada357155366fbd293950c8e4ea522f43",
+    "distributed_sha256": "30c68a5efe1ee9f4bbb8684c51fc98cada357155366fbd293950c8e4ea522f43",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_04/metrics.csv",
+    "source_sha256": "befa9ff984b704f7fb6eabcd40bd0463f0f5dc39dc79658860a4925433df44f0",
+    "distributed_sha256": "befa9ff984b704f7fb6eabcd40bd0463f0f5dc39dc79658860a4925433df44f0",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_04/run.json",
+    "source_sha256": "304793d14b76ee581d13955a28fef96c60572691a1084a8ae308ffb4e392c629",
+    "distributed_sha256": "304793d14b76ee581d13955a28fef96c60572691a1084a8ae308ffb4e392c629",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_05/EVALUATION_COMPLETED.json",
+    "source_sha256": "279f4ab4c25f55a79fddb0a6ed4e9b4d3bd17d75d13afa0acdbe283ddf849e61",
+    "distributed_sha256": "279f4ab4c25f55a79fddb0a6ed4e9b4d3bd17d75d13afa0acdbe283ddf849e61",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_05/metrics.csv",
+    "source_sha256": "5a17a0d9e85fe65e62c058869516219ba8b27b2de6b6ee94d0f094179cd567c4",
+    "distributed_sha256": "5a17a0d9e85fe65e62c058869516219ba8b27b2de6b6ee94d0f094179cd567c4",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/segresnet_baseline/fold_05/run.json",
+    "source_sha256": "c16ed92cc52533a82202fbbbc1c35d9665f802fa6c601416030cacf82e937ce4",
+    "distributed_sha256": "c16ed92cc52533a82202fbbbc1c35d9665f802fa6c601416030cacf82e937ce4",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_01/EVALUATION_COMPLETED.json",
+    "source_sha256": "093c4a9123b4d601852ef105b5f19587ed3cf2a819121bd012712e4fdbfa92b8",
+    "distributed_sha256": "093c4a9123b4d601852ef105b5f19587ed3cf2a819121bd012712e4fdbfa92b8",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_01/metrics.csv",
+    "source_sha256": "0db665c93862a3fdc92f1884e8aea2dd4c35941956e936f7882834fbe39f02f0",
+    "distributed_sha256": "0db665c93862a3fdc92f1884e8aea2dd4c35941956e936f7882834fbe39f02f0",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_01/run.json",
+    "source_sha256": "f6232bdf544e6f5c2202dcfcbe134e7a0bf120798bcf72699e969ee84279e265",
+    "distributed_sha256": "f6232bdf544e6f5c2202dcfcbe134e7a0bf120798bcf72699e969ee84279e265",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_02/EVALUATION_COMPLETED.json",
+    "source_sha256": "baac83a2cb0b6680d708eab8b5727b6ee537708e2c3d0b405006894a6a826ac3",
+    "distributed_sha256": "baac83a2cb0b6680d708eab8b5727b6ee537708e2c3d0b405006894a6a826ac3",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_02/metrics.csv",
+    "source_sha256": "977974f3bd46f1580892c60657b313831565bc0c8516369b0d8e331e8643bc8e",
+    "distributed_sha256": "977974f3bd46f1580892c60657b313831565bc0c8516369b0d8e331e8643bc8e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_02/run.json",
+    "source_sha256": "32dfe5fc06d3ef8fa2722503d88fd1870dd78b232f8c5c469c8f9ce8ffcb9987",
+    "distributed_sha256": "32dfe5fc06d3ef8fa2722503d88fd1870dd78b232f8c5c469c8f9ce8ffcb9987",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_03/EVALUATION_COMPLETED.json",
+    "source_sha256": "12be4c4852b1840e5762222b1d1842bf4a94737cf2d31943e7dd8fe16c35a2ed",
+    "distributed_sha256": "12be4c4852b1840e5762222b1d1842bf4a94737cf2d31943e7dd8fe16c35a2ed",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_03/metrics.csv",
+    "source_sha256": "309982168756dbbf87943e6faef79dfc35d767d557964d2420864419aae55f0e",
+    "distributed_sha256": "309982168756dbbf87943e6faef79dfc35d767d557964d2420864419aae55f0e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_03/run.json",
+    "source_sha256": "78e6a494caaa773951522701de41f5696ded3c9a818a53335a92f4cc08a19515",
+    "distributed_sha256": "78e6a494caaa773951522701de41f5696ded3c9a818a53335a92f4cc08a19515",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_04/EVALUATION_COMPLETED.json",
+    "source_sha256": "8b9c0ef79e0236ae55d0d0a1e8598ffffd95bdbefea1806fe378e06d97d5ddac",
+    "distributed_sha256": "8b9c0ef79e0236ae55d0d0a1e8598ffffd95bdbefea1806fe378e06d97d5ddac",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_04/metrics.csv",
+    "source_sha256": "bc1d917741c133be25675160cab3c25f2be4eb2b42cbb11d4a5d0ad61176b15b",
+    "distributed_sha256": "bc1d917741c133be25675160cab3c25f2be4eb2b42cbb11d4a5d0ad61176b15b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_04/run.json",
+    "source_sha256": "18561f49103226b4195e90f024eb0eaa61624c0aa033a9082c5956478cc12e48",
+    "distributed_sha256": "18561f49103226b4195e90f024eb0eaa61624c0aa033a9082c5956478cc12e48",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_05/EVALUATION_COMPLETED.json",
+    "source_sha256": "eb30d4283ebe7787603d63bc0866f4b8ba6c1229c214993f0ec89271f692cd88",
+    "distributed_sha256": "eb30d4283ebe7787603d63bc0866f4b8ba6c1229c214993f0ec89271f692cd88",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_05/metrics.csv",
+    "source_sha256": "abd06d6c28b22bf5e9a0a3554fe243c37b1e8c3f599b681ba81c71f6e5397108",
+    "distributed_sha256": "abd06d6c28b22bf5e9a0a3554fe243c37b1e8c3f599b681ba81c71f6e5397108",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/eval/unet_baseline/fold_05/run.json",
+    "source_sha256": "72cca49110c0b0bf4708c05c56e18c5709f10e7b2a47b96c61682d667959f53b",
+    "distributed_sha256": "72cca49110c0b0bf4708c05c56e18c5709f10e7b2a47b96c61682d667959f53b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/export.json",
+    "source_sha256": "f26c4477dca1597d7cc9558ccfe19e76876eb1034ce31613c103ae6cd3578011",
+    "distributed_sha256": "f26c4477dca1597d7cc9558ccfe19e76876eb1034ce31613c103ae6cd3578011",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset701_GliomaOuter1/dataset.json",
+    "source_sha256": "087e050a7e934a2cc7973d2917763a7f6edbfc248289194ce61698bdd170c64c",
+    "distributed_sha256": "087e050a7e934a2cc7973d2917763a7f6edbfc248289194ce61698bdd170c64c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset701_GliomaOuter1/dataset_fingerprint.json",
+    "source_sha256": "5e31218ce12d4d4c2036fbe8dd6d897f77ccf6664d5ac6d503d21bad25f0f9ec",
+    "distributed_sha256": "5e31218ce12d4d4c2036fbe8dd6d897f77ccf6664d5ac6d503d21bad25f0f9ec",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset701_GliomaOuter1/nnUNetPlans.json",
+    "source_sha256": "b85967a8b8f71b7e797aa101ebfb18dd0a5d1cf9183fead45792e0c3eb7d7cb4",
+    "distributed_sha256": "b85967a8b8f71b7e797aa101ebfb18dd0a5d1cf9183fead45792e0c3eb7d7cb4",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset701_GliomaOuter1/splits_final.json",
+    "source_sha256": "1a9b52b73fb78d4c35b547db030f76b69ea8de62c124290972d74082a7c48c94",
+    "distributed_sha256": "1a9b52b73fb78d4c35b547db030f76b69ea8de62c124290972d74082a7c48c94",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset702_GliomaOuter2/dataset.json",
+    "source_sha256": "a7901dd3f3f502e0a3797896b53dc5a44a600ba5910a8917487925e80c8ecd63",
+    "distributed_sha256": "a7901dd3f3f502e0a3797896b53dc5a44a600ba5910a8917487925e80c8ecd63",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset702_GliomaOuter2/dataset_fingerprint.json",
+    "source_sha256": "e5fa817d712305c27bf5a01c7f472bcc02ce4aa9ec730014a7f54548803641cb",
+    "distributed_sha256": "e5fa817d712305c27bf5a01c7f472bcc02ce4aa9ec730014a7f54548803641cb",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset702_GliomaOuter2/nnUNetPlans.json",
+    "source_sha256": "ca8cb9d3722daf49c2a4b4e96e5996a7e13bc013cf0cfa4fabfe9268ad9078e8",
+    "distributed_sha256": "ca8cb9d3722daf49c2a4b4e96e5996a7e13bc013cf0cfa4fabfe9268ad9078e8",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset702_GliomaOuter2/splits_final.json",
+    "source_sha256": "56d914b7d753d3c40855f4c574595664154ba2d5e20ae705a5da76bb1be8ab61",
+    "distributed_sha256": "56d914b7d753d3c40855f4c574595664154ba2d5e20ae705a5da76bb1be8ab61",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/dataset.json",
+    "source_sha256": "44464ca389e373d71b6f576b54f39cfcd630765314d846e31b8beaf0ba9f365b",
+    "distributed_sha256": "44464ca389e373d71b6f576b54f39cfcd630765314d846e31b8beaf0ba9f365b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/dataset_fingerprint.json",
+    "source_sha256": "3b42bed3ece24decf04566acf1a1002f2411b921c2a3f91809e5048dc898307f",
+    "distributed_sha256": "3b42bed3ece24decf04566acf1a1002f2411b921c2a3f91809e5048dc898307f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/nnUNetPlans.json",
+    "source_sha256": "5e1737608ebab0c49a7ecb1747bc052e5a931b36326333d73f003880bc26d305",
+    "distributed_sha256": "5e1737608ebab0c49a7ecb1747bc052e5a931b36326333d73f003880bc26d305",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/splits_final.json",
+    "source_sha256": "e27ed2cdc5f989c97fe483d7a6cb66a3f3a9a502deaa673e1ca1d8bea44c774f",
+    "distributed_sha256": "e27ed2cdc5f989c97fe483d7a6cb66a3f3a9a502deaa673e1ca1d8bea44c774f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset704_GliomaOuter4/dataset.json",
+    "source_sha256": "d5c43b0b28443a9a0e17ad8a30171f20488384ae371db09cee5e18416ba10337",
+    "distributed_sha256": "d5c43b0b28443a9a0e17ad8a30171f20488384ae371db09cee5e18416ba10337",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset704_GliomaOuter4/dataset_fingerprint.json",
+    "source_sha256": "7dc33a5d7bfc1cd0358686a55f9b8972d024bdec157a239221e73e02076ae43e",
+    "distributed_sha256": "7dc33a5d7bfc1cd0358686a55f9b8972d024bdec157a239221e73e02076ae43e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset704_GliomaOuter4/nnUNetPlans.json",
+    "source_sha256": "0fe2254e29e07aa4393ece2b4dd1c297c7dd7a0730fae08ad4b2a2e71c8eed52",
+    "distributed_sha256": "0fe2254e29e07aa4393ece2b4dd1c297c7dd7a0730fae08ad4b2a2e71c8eed52",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset704_GliomaOuter4/splits_final.json",
+    "source_sha256": "79fae10a13931513365c06a900cd0d65f142941cffd31a72da88d703adfbee42",
+    "distributed_sha256": "79fae10a13931513365c06a900cd0d65f142941cffd31a72da88d703adfbee42",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset705_GliomaOuter5/dataset.json",
+    "source_sha256": "254f2edd8116f807924aa5940d099656b7d9c2e9ffd28cbedd44265aae9040e1",
+    "distributed_sha256": "254f2edd8116f807924aa5940d099656b7d9c2e9ffd28cbedd44265aae9040e1",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset705_GliomaOuter5/dataset_fingerprint.json",
+    "source_sha256": "b44d36915d0c8b0847231dada367aebb3ccad650dd687d772ece035b1aa6eb02",
+    "distributed_sha256": "b44d36915d0c8b0847231dada367aebb3ccad650dd687d772ece035b1aa6eb02",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset705_GliomaOuter5/nnUNetPlans.json",
+    "source_sha256": "6f56fc26316f3404b7237c14614c5e54980578267c8efbd4dbb98b79a47e8757",
+    "distributed_sha256": "6f56fc26316f3404b7237c14614c5e54980578267c8efbd4dbb98b79a47e8757",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_preprocessed/Dataset705_GliomaOuter5/splits_final.json",
+    "source_sha256": "fee227361777abbff16989e8515624236d2f41ae8a14cf0c70aad6865995ab56",
+    "distributed_sha256": "fee227361777abbff16989e8515624236d2f41ae8a14cf0c70aad6865995ab56",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset701_GliomaOuter1/dataset.json",
+    "source_sha256": "087e050a7e934a2cc7973d2917763a7f6edbfc248289194ce61698bdd170c64c",
+    "distributed_sha256": "087e050a7e934a2cc7973d2917763a7f6edbfc248289194ce61698bdd170c64c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset701_GliomaOuter1/outer_protocol.json",
+    "source_sha256": "49b990902ee2537c5d67d65f071b96fc378c475abcaf1093ed326ee8956f081f",
+    "distributed_sha256": "49b990902ee2537c5d67d65f071b96fc378c475abcaf1093ed326ee8956f081f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset701_GliomaOuter1/splits_final_required.json",
+    "source_sha256": "1a9b52b73fb78d4c35b547db030f76b69ea8de62c124290972d74082a7c48c94",
+    "distributed_sha256": "1a9b52b73fb78d4c35b547db030f76b69ea8de62c124290972d74082a7c48c94",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset702_GliomaOuter2/dataset.json",
+    "source_sha256": "a7901dd3f3f502e0a3797896b53dc5a44a600ba5910a8917487925e80c8ecd63",
+    "distributed_sha256": "a7901dd3f3f502e0a3797896b53dc5a44a600ba5910a8917487925e80c8ecd63",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset702_GliomaOuter2/outer_protocol.json",
+    "source_sha256": "4e7d42f8c54764f449c968336b28ef8d07a8b2718ded4ec81770020fbfe8de92",
+    "distributed_sha256": "4e7d42f8c54764f449c968336b28ef8d07a8b2718ded4ec81770020fbfe8de92",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset702_GliomaOuter2/splits_final_required.json",
+    "source_sha256": "56d914b7d753d3c40855f4c574595664154ba2d5e20ae705a5da76bb1be8ab61",
+    "distributed_sha256": "56d914b7d753d3c40855f4c574595664154ba2d5e20ae705a5da76bb1be8ab61",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset703_GliomaOuter3/dataset.json",
+    "source_sha256": "44464ca389e373d71b6f576b54f39cfcd630765314d846e31b8beaf0ba9f365b",
+    "distributed_sha256": "44464ca389e373d71b6f576b54f39cfcd630765314d846e31b8beaf0ba9f365b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset703_GliomaOuter3/outer_protocol.json",
+    "source_sha256": "2932d0fa77ae8ddac83864185a2173ef3cec0616022e9586d695c9e79d02d625",
+    "distributed_sha256": "2932d0fa77ae8ddac83864185a2173ef3cec0616022e9586d695c9e79d02d625",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset703_GliomaOuter3/splits_final_required.json",
+    "source_sha256": "e27ed2cdc5f989c97fe483d7a6cb66a3f3a9a502deaa673e1ca1d8bea44c774f",
+    "distributed_sha256": "e27ed2cdc5f989c97fe483d7a6cb66a3f3a9a502deaa673e1ca1d8bea44c774f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset704_GliomaOuter4/dataset.json",
+    "source_sha256": "d5c43b0b28443a9a0e17ad8a30171f20488384ae371db09cee5e18416ba10337",
+    "distributed_sha256": "d5c43b0b28443a9a0e17ad8a30171f20488384ae371db09cee5e18416ba10337",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset704_GliomaOuter4/outer_protocol.json",
+    "source_sha256": "3cd0688b957c47eb9d9ec470b08019568ee79d9582b2ea1e8e62569df4a85c3e",
+    "distributed_sha256": "3cd0688b957c47eb9d9ec470b08019568ee79d9582b2ea1e8e62569df4a85c3e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset704_GliomaOuter4/splits_final_required.json",
+    "source_sha256": "79fae10a13931513365c06a900cd0d65f142941cffd31a72da88d703adfbee42",
+    "distributed_sha256": "79fae10a13931513365c06a900cd0d65f142941cffd31a72da88d703adfbee42",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset705_GliomaOuter5/dataset.json",
+    "source_sha256": "254f2edd8116f807924aa5940d099656b7d9c2e9ffd28cbedd44265aae9040e1",
+    "distributed_sha256": "254f2edd8116f807924aa5940d099656b7d9c2e9ffd28cbedd44265aae9040e1",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset705_GliomaOuter5/outer_protocol.json",
+    "source_sha256": "f2445a7c522dabd6f61345c4cacc39d96afdd5da760b7b8d09eb1c81d6772055",
+    "distributed_sha256": "f2445a7c522dabd6f61345c4cacc39d96afdd5da760b7b8d09eb1c81d6772055",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_raw/Dataset705_GliomaOuter5/splits_final_required.json",
+    "source_sha256": "fee227361777abbff16989e8515624236d2f41ae8a14cf0c70aad6865995ab56",
+    "distributed_sha256": "fee227361777abbff16989e8515624236d2f41ae8a14cf0c70aad6865995ab56",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/cedia_protocol.json",
+    "source_sha256": "d2730732a7da45c0da879f167804437152c7437347de449300b17450c78a8a50",
+    "distributed_sha256": "d2730732a7da45c0da879f167804437152c7437347de449300b17450c78a8a50",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset.json",
+    "source_sha256": "ad01028f7de6432abd2ccb39b8706e5f01714afefd74bff19eb1fb6bba728480",
+    "distributed_sha256": "ad01028f7de6432abd2ccb39b8706e5f01714afefd74bff19eb1fb6bba728480",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset_fingerprint.json",
+    "source_sha256": "5e31218ce12d4d4c2036fbe8dd6d897f77ccf6664d5ac6d503d21bad25f0f9ec",
+    "distributed_sha256": "5e31218ce12d4d4c2036fbe8dd6d897f77ccf6664d5ac6d503d21bad25f0f9ec",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/plans.json",
+    "source_sha256": "b85967a8b8f71b7e797aa101ebfb18dd0a5d1cf9183fead45792e0c3eb7d7cb4",
+    "distributed_sha256": "b85967a8b8f71b7e797aa101ebfb18dd0a5d1cf9183fead45792e0c3eb7d7cb4",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/debug.json",
+    "source_sha256": "997086f6708bdc47bc8c54e57a3312790b1dc56c73da04d91931dde623a05da6",
+    "distributed_sha256": "192b2a63245b7a288470f9681d30fa0b3a8cfcb0c9bd883db77659f1e878604a",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/progress.png",
+    "source_sha256": "0c42bdd159ccce53f7d4ff9e65391602139579d21c22789d400131837952516b",
+    "distributed_sha256": "0c42bdd159ccce53f7d4ff9e65391602139579d21c22789d400131837952516b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/training_log_2026_9_26_14_12_43.txt",
+    "source_sha256": "8d8df3cd5f3ccbf5e04f8c342fc8641112c37aa058df0cb670821fec655b4437",
+    "distributed_sha256": "62c396e20bfdef08f9d383130237ead36caab59672ceb38a6209469b4c2c28f1",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset701_GliomaOuter1/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/summary.json",
+    "source_sha256": "d5bd6cc97a805d1e3fc573a709c1e294ea4ad1917c4cd959dd11362c00d5d1b8",
+    "distributed_sha256": "df821f00dec3acc213f2f04de0b1436a9370acb22ff96378f279da9a7d804c17",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/cedia_protocol.json",
+    "source_sha256": "f39c8e037e74c2d1137864e01a68120ce280b9e6562099edeaad59cc20382c1c",
+    "distributed_sha256": "f39c8e037e74c2d1137864e01a68120ce280b9e6562099edeaad59cc20382c1c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset.json",
+    "source_sha256": "1496fc635bd1b879af819723e83eedd01aeaf98418c653a0fc5412dbaa967d3b",
+    "distributed_sha256": "1496fc635bd1b879af819723e83eedd01aeaf98418c653a0fc5412dbaa967d3b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset_fingerprint.json",
+    "source_sha256": "e5fa817d712305c27bf5a01c7f472bcc02ce4aa9ec730014a7f54548803641cb",
+    "distributed_sha256": "e5fa817d712305c27bf5a01c7f472bcc02ce4aa9ec730014a7f54548803641cb",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/plans.json",
+    "source_sha256": "ca8cb9d3722daf49c2a4b4e96e5996a7e13bc013cf0cfa4fabfe9268ad9078e8",
+    "distributed_sha256": "ca8cb9d3722daf49c2a4b4e96e5996a7e13bc013cf0cfa4fabfe9268ad9078e8",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/debug.json",
+    "source_sha256": "cee32ad960cce57cb8b6e107772b3e823fef6321eb9bcb8920e0e4da3a119e1b",
+    "distributed_sha256": "0cd5756549d4838851d16276d9815d3db200a77568030dd592d301557daac7ec",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/progress.png",
+    "source_sha256": "ea4df0e30662b89396bc0b671e9d65f0997fdbc9356615fa3a492e239d9e6258",
+    "distributed_sha256": "ea4df0e30662b89396bc0b671e9d65f0997fdbc9356615fa3a492e239d9e6258",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/training_log_2026_9_26_15_50_40.txt",
+    "source_sha256": "45f3f04f8d6e544e6d1aa0ab89574384d0dfe1cf03eb580ffb08b5f55bda20e3",
+    "distributed_sha256": "2094319d7542897723e9e7f8abff18a79809b9bfc655cf4f22c48dfbc9ee3768",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset702_GliomaOuter2/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/summary.json",
+    "source_sha256": "b6207a7b1a88da62953f332cf0ead120f2ca851fbb544b54d3c05bef87fc865d",
+    "distributed_sha256": "68e0157db9d7945989f7dfe3f402f40097d2050371e5123f3710648964aa9c97",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/cedia_protocol.json",
+    "source_sha256": "177883be5659b28cf26962480c182d386d845ce217df855ee62fe17aa0166f65",
+    "distributed_sha256": "177883be5659b28cf26962480c182d386d845ce217df855ee62fe17aa0166f65",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset.json",
+    "source_sha256": "02824491c841be99bffa134b7dbdd2a6c1b424458802cdfa88b334b5e3edfd9d",
+    "distributed_sha256": "02824491c841be99bffa134b7dbdd2a6c1b424458802cdfa88b334b5e3edfd9d",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset_fingerprint.json",
+    "source_sha256": "3b42bed3ece24decf04566acf1a1002f2411b921c2a3f91809e5048dc898307f",
+    "distributed_sha256": "3b42bed3ece24decf04566acf1a1002f2411b921c2a3f91809e5048dc898307f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/plans.json",
+    "source_sha256": "5e1737608ebab0c49a7ecb1747bc052e5a931b36326333d73f003880bc26d305",
+    "distributed_sha256": "5e1737608ebab0c49a7ecb1747bc052e5a931b36326333d73f003880bc26d305",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/debug.json",
+    "source_sha256": "3e6bade6ec3200140103e45bc62b3a6be299051dfb86cc0a77878a54efc9c895",
+    "distributed_sha256": "67abccd7e0ddc9b4a9e54136fa2124f88ddbc63ea6c1f3f783234ab25a21d91b",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/progress.png",
+    "source_sha256": "ef37a9437b545918febe788cea90d676322fb5e5a593b5667169a0490b55b5af",
+    "distributed_sha256": "ef37a9437b545918febe788cea90d676322fb5e5a593b5667169a0490b55b5af",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/training_log_2026_9_26_18_05_13.txt",
+    "source_sha256": "ca3318b8c6a1f5a7f7eb27ea5b0ba2a4bfc7ad0278129cadbf6f8de27c4e774e",
+    "distributed_sha256": "4c0f2b0fb6befb5e6f0765302dcbd40195b52946cadf0da6cce446b1a2c55255",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/summary.json",
+    "source_sha256": "509019c3947d0747988adb95a3a855afd4fc41d4f1b19a7d1037e3846fe34684",
+    "distributed_sha256": "4083694e6097969ff5e71a97e61fb541f244ada2ddbce2c843f0fa353d3ac285",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/cedia_protocol.json",
+    "source_sha256": "adf41379efcf4c389616f09a98ea331fc78ecf0034a531c6137a100d99a578d4",
+    "distributed_sha256": "adf41379efcf4c389616f09a98ea331fc78ecf0034a531c6137a100d99a578d4",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset.json",
+    "source_sha256": "c8efcd8ed689b30559fcd567a7e32de9e15c5dca7ccee3a69ff07ef371df7196",
+    "distributed_sha256": "c8efcd8ed689b30559fcd567a7e32de9e15c5dca7ccee3a69ff07ef371df7196",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset_fingerprint.json",
+    "source_sha256": "7dc33a5d7bfc1cd0358686a55f9b8972d024bdec157a239221e73e02076ae43e",
+    "distributed_sha256": "7dc33a5d7bfc1cd0358686a55f9b8972d024bdec157a239221e73e02076ae43e",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/plans.json",
+    "source_sha256": "0fe2254e29e07aa4393ece2b4dd1c297c7dd7a0730fae08ad4b2a2e71c8eed52",
+    "distributed_sha256": "0fe2254e29e07aa4393ece2b4dd1c297c7dd7a0730fae08ad4b2a2e71c8eed52",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/debug.json",
+    "source_sha256": "c07fcf99603fc23b7e1b725472e3c769ea75a0e8deed27b39a6ab8dd0bb37474",
+    "distributed_sha256": "5e5b8d4b1ec9230bdf883c45a0a7f7b4bbf2145235bc338bb595ec62b1c40254",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/progress.png",
+    "source_sha256": "c8d2cec3e4bb56080ecbbc9ae552938e20504374ef6d60ff25e2c828e43d5887",
+    "distributed_sha256": "c8d2cec3e4bb56080ecbbc9ae552938e20504374ef6d60ff25e2c828e43d5887",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/training_log_2026_9_26_20_17_53.txt",
+    "source_sha256": "aca6613926466584b43757889d2fff1b280c09b387abd1c9ce52b3244bcb7220",
+    "distributed_sha256": "1d360f7882e03c6a3140c9824d64a7bbcc1a067cfa87db3b34903eb2ac117546",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset704_GliomaOuter4/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/summary.json",
+    "source_sha256": "b23ea648150f565df4ce19367e98ffc27d1e441550e848ad4966fdd2b59de6ab",
+    "distributed_sha256": "bf2412bce553f381a1cfdf17621797da852249e695911ba694082c6873c6f499",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/cedia_protocol.json",
+    "source_sha256": "3630ef072f4a3223a3c73e2d4174424eccaf707d8d7a0c879d53d42dc2d10265",
+    "distributed_sha256": "3630ef072f4a3223a3c73e2d4174424eccaf707d8d7a0c879d53d42dc2d10265",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset.json",
+    "source_sha256": "1e3dca0f717286b21d701dae70dc8e657ee712a1e69edfdee694b6fe70acae22",
+    "distributed_sha256": "1e3dca0f717286b21d701dae70dc8e657ee712a1e69edfdee694b6fe70acae22",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/dataset_fingerprint.json",
+    "source_sha256": "b44d36915d0c8b0847231dada367aebb3ccad650dd687d772ece035b1aa6eb02",
+    "distributed_sha256": "b44d36915d0c8b0847231dada367aebb3ccad650dd687d772ece035b1aa6eb02",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/plans.json",
+    "source_sha256": "6f56fc26316f3404b7237c14614c5e54980578267c8efbd4dbb98b79a47e8757",
+    "distributed_sha256": "6f56fc26316f3404b7237c14614c5e54980578267c8efbd4dbb98b79a47e8757",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/debug.json",
+    "source_sha256": "8766b4710776fdec8b1d09e8558483613986f464377b853b12d6761a7ed4ca7e",
+    "distributed_sha256": "3319f9a097411bf987bf5b28aa3d037843f03afcb8af920d0ffd9f00102008b4",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/progress.png",
+    "source_sha256": "ac3afe17d1678294fb2aed789fbe4b708156af07ba00e11ba71f0aa172b912a3",
+    "distributed_sha256": "ac3afe17d1678294fb2aed789fbe4b708156af07ba00e11ba71f0aa172b912a3",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/training_log_2026_9_26_22_58_39.txt",
+    "source_sha256": "6cfe57ab48a1d4745218ffa8c1697cc17c7cddb2996f8678fb86e8ac83161523",
+    "distributed_sha256": "bdaf669b319a55643a416849921992646621f468b9a87df254c65c118dac98de",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "results/nnunet/nnUNet_results/Dataset705_GliomaOuter5/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/summary.json",
+    "source_sha256": "a2ece05830fc5952af756c89e8ef16881fd2950765a2b076b655cb30b1e3ebb8",
+    "distributed_sha256": "5a8290817bf95421d15cf990bc856b2adfa4e8ddd2d4916d5c58f8755eca37f7",
+    "byte_identical_to_source": false
+  },
+  {
+    "path": "provenance/environment/environment_freeze.txt",
+    "source_sha256": "6daddefcee06a0463b2239aea8d9a95583b815b57cfa7689ca2840d7b3e75a62",
+    "distributed_sha256": "6daddefcee06a0463b2239aea8d9a95583b815b57cfa7689ca2840d7b3e75a62",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "provenance/environment/environment_nnunet_freeze.txt",
+    "source_sha256": "993cceccf1c786d306faf7abb335299d6a3f63ef7b707478d81a2631ee06e11b",
+    "distributed_sha256": "993cceccf1c786d306faf7abb335299d6a3f63ef7b707478d81a2631ee06e11b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "provenance/environment/constraints_nnunet.txt",
+    "source_sha256": "2172762f9764785a647f1fbc2da8952b5ebf2412ff4dc034bd33b99dd33fe78b",
+    "distributed_sha256": "2172762f9764785a647f1fbc2da8952b5ebf2412ff4dc034bd33b99dd33fe78b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "provenance/environment/preflight_gpu.json",
+    "source_sha256": "23c830f6e39ef5f026bb78c297d8e09680d4af8695a37a6eb0f7f82cce8591df",
+    "distributed_sha256": "23c830f6e39ef5f026bb78c297d8e09680d4af8695a37a6eb0f7f82cce8591df",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "provenance/environment/pip_freeze_actual.txt",
+    "source_sha256": "6daddefcee06a0463b2239aea8d9a95583b815b57cfa7689ca2840d7b3e75a62",
+    "distributed_sha256": "6daddefcee06a0463b2239aea8d9a95583b815b57cfa7689ca2840d7b3e75a62",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "provenance/environment/pip_freeze_base.txt",
+    "source_sha256": "6daddefcee06a0463b2239aea8d9a95583b815b57cfa7689ca2840d7b3e75a62",
+    "distributed_sha256": "6daddefcee06a0463b2239aea8d9a95583b815b57cfa7689ca2840d7b3e75a62",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "provenance/environment/pip_freeze_nnunet.txt",
+    "source_sha256": "993cceccf1c786d306faf7abb335299d6a3f63ef7b707478d81a2631ee06e11b",
+    "distributed_sha256": "993cceccf1c786d306faf7abb335299d6a3f63ef7b707478d81a2631ee06e11b",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/confusion_counts.csv",
+    "source_sha256": "34757a4d2049d9a007e117be599a40bc1f0bf8d4bb6ffb1b8a5428a779b07167",
+    "distributed_sha256": "34757a4d2049d9a007e117be599a40bc1f0bf8d4bb6ffb1b8a5428a779b07167",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/confusion_matrices.pdf",
+    "source_sha256": "2c425ab5088fbba68e1529e2ea265bdff00db03729d46e57dfc1660ba8ac0a32",
+    "distributed_sha256": "2c425ab5088fbba68e1529e2ea265bdff00db03729d46e57dfc1660ba8ac0a32",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/confusion_matrices.png",
+    "source_sha256": "76e1b4b74c6d7fc012ed3a9c3e05d61723186c4ae88f393301c45087ec24ef58",
+    "distributed_sha256": "76e1b4b74c6d7fc012ed3a9c3e05d61723186c4ae88f393301c45087ec24ef58",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/metric_comparison.pdf",
+    "source_sha256": "9fd942f9dd1246732cd31657771972fd960931fde172613a63def37a343c909a",
+    "distributed_sha256": "9fd942f9dd1246732cd31657771972fd960931fde172613a63def37a343c909a",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/metric_comparison.png",
+    "source_sha256": "2f98aca0137ab7c1cec794f4f7bd9544424748f6c0e9c80d75fa30d0e67e9dba",
+    "distributed_sha256": "2f98aca0137ab7c1cec794f4f7bd9544424748f6c0e9c80d75fa30d0e67e9dba",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/metric_distributions.pdf",
+    "source_sha256": "2594d0ce80b3ea5b2b871cd51293e99da19afa525b3e9670e2f04607d824661f",
+    "distributed_sha256": "2594d0ce80b3ea5b2b871cd51293e99da19afa525b3e9670e2f04607d824661f",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/metric_distributions.png",
+    "source_sha256": "f57ef72d44ad9b99bf1fa57cc593fa30f03521687a4e31dafa06124e8755745c",
+    "distributed_sha256": "f57ef72d44ad9b99bf1fa57cc593fa30f03521687a4e31dafa06124e8755745c",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/nnunet_training_parsed.csv",
+    "source_sha256": "691a24c71d4f1f44bc6e9e856180107d1332d8c56466c8a2540cc0fa746f8c03",
+    "distributed_sha256": "691a24c71d4f1f44bc6e9e856180107d1332d8c56466c8a2540cc0fa746f8c03",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/size_strata.pdf",
+    "source_sha256": "19289976ba0fa7f8e722ed44fdc966b72d6a19d49ce3f1315e2a6240a80fe2f6",
+    "distributed_sha256": "19289976ba0fa7f8e722ed44fdc966b72d6a19d49ce3f1315e2a6240a80fe2f6",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/size_strata.png",
+    "source_sha256": "42d553a0b5d62f445a9c5bdcf6bfd997d8138577817f1d3b1bcf8b485d494bd2",
+    "distributed_sha256": "42d553a0b5d62f445a9c5bdcf6bfd997d8138577817f1d3b1bcf8b485d494bd2",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/training_nnunet.pdf",
+    "source_sha256": "23bc6400a67f7392a927a526a7b5e509f30cb3ee8960980ae4c2070f395151ab",
+    "distributed_sha256": "23bc6400a67f7392a927a526a7b5e509f30cb3ee8960980ae4c2070f395151ab",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/training_nnunet.png",
+    "source_sha256": "94cbb61bded3117657bb1560cf52f1389e0a60bd7fb90a0ab7bc3eb5d5901550",
+    "distributed_sha256": "94cbb61bded3117657bb1560cf52f1389e0a60bd7fb90a0ab7bc3eb5d5901550",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/training_unet_segresnet.pdf",
+    "source_sha256": "6cba63ab05ab5b6524e22eadd77ac946e54cec568486691df79c6a12e04be132",
+    "distributed_sha256": "6cba63ab05ab5b6524e22eadd77ac946e54cec568486691df79c6a12e04be132",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/training_unet_segresnet.png",
+    "source_sha256": "0d14cf5935f6a097b02ce6031ecc983154f29f612c08f4d32b4f3b0eaba5c3ae",
+    "distributed_sha256": "0d14cf5935f6a097b02ce6031ecc983154f29f612c08f4d32b4f3b0eaba5c3ae",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/volumetric_agreement.pdf",
+    "source_sha256": "2a294e0961226f2e1c5e40122be6f4ff613715085749d756091b4a6fcd6b7bb6",
+    "distributed_sha256": "2a294e0961226f2e1c5e40122be6f4ff613715085749d756091b4a6fcd6b7bb6",
+    "byte_identical_to_source": true
+  },
+  {
+    "path": "docs/figures/volumetric_agreement.png",
+    "source_sha256": "1065f2ec77e6ea59f0c671806e6a3dab9222dc4b2ead7e6e3696609630c057ee",
+    "distributed_sha256": "1065f2ec77e6ea59f0c671806e6a3dab9222dc4b2ead7e6e3696609630c057ee",
+    "byte_identical_to_source": true
+  }
+]

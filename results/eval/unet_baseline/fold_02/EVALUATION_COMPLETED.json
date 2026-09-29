@@ -1,0 +1,5 @@
+{
+  "n_cases": 259,
+  "evidence": "heldout_with_persisted_training_manifest",
+  "checkpoint_sha256": "949d1e07d800df2ae0f5d0f9a15e4bd617b96a3bda7ff818f980737050d98d55"
+}

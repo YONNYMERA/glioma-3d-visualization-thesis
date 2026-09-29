@@ -1,0 +1,11 @@
+{
+  "manifest_sha256": "f67351ece0c762564abc2fda59ffa8c2c05483e5a11fecd2a545f947348fc0da",
+  "dataset_base": 700,
+  "folds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

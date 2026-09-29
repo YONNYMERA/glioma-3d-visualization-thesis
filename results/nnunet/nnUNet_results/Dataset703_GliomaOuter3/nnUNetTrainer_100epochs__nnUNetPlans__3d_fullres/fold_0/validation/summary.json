@@ -1,0 +1,2426 @@
+{
+    "foreground_mean": {
+        "Dice": 0.9327405938225869,
+        "FN": 5991.48,
+        "FP": 4728.333333333333,
+        "IoU": 0.8804035998886605,
+        "TN": 8825345.146666666,
+        "TP": 91935.04,
+        "n_pred": 96663.37333333334,
+        "n_ref": 97926.52
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.9327405938225869,
+            "FN": 5991.48,
+            "FP": 4728.333333333333,
+            "IoU": 0.8804035998886605,
+            "TN": 8825345.146666666,
+            "TP": 91935.04,
+            "n_pred": 96663.37333333334,
+            "n_ref": 97926.52
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8494462569634019,
+                    "FN": 12713,
+                    "FP": 14421,
+                    "IoU": 0.7382934192378545,
+                    "TN": 8824319,
+                    "TP": 76547,
+                    "n_pred": 90968,
+                    "n_ref": 89260
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00021-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00021-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9485043183161427,
+                    "FN": 6530,
+                    "FP": 6975,
+                    "IoU": 0.9020525094284886,
+                    "TN": 8790120,
+                    "TP": 124375,
+                    "n_pred": 131350,
+                    "n_ref": 130905
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00021-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00021-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9459217427856059,
+                    "FN": 1531,
+                    "FP": 1428,
+                    "IoU": 0.8973923295651571,
+                    "TN": 8899162,
+                    "TP": 25879,
+                    "n_pred": 27307,
+                    "n_ref": 27410
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00058-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00058-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8460960082875236,
+                    "FN": 520,
+                    "FP": 17902,
+                    "IoU": 0.7332464523602664,
+                    "TN": 8858940,
+                    "TP": 50638,
+                    "n_pred": 68540,
+                    "n_ref": 51158
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00058-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00058-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9571050100403301,
+                    "FN": 6496,
+                    "FP": 3672,
+                    "IoU": 0.9177386211025355,
+                    "TN": 8804394,
+                    "TP": 113438,
+                    "n_pred": 117110,
+                    "n_ref": 119934
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00059-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00059-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9699212809732535,
+                    "FN": 1813,
+                    "FP": 877,
+                    "IoU": 0.9415991836911921,
+                    "TN": 8881939,
+                    "TP": 43371,
+                    "n_pred": 44248,
+                    "n_ref": 45184
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00059-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00059-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7373033977668387,
+                    "FN": 1041,
+                    "FP": 12087,
+                    "IoU": 0.5839117619092897,
+                    "TN": 8896449,
+                    "TP": 18423,
+                    "n_pred": 30510,
+                    "n_ref": 19464
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00061-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00061-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9382144104295193,
+                    "FN": 1499,
+                    "FP": 3809,
+                    "IoU": 0.8836194610712798,
+                    "TN": 8882391,
+                    "TP": 40301,
+                    "n_pred": 44110,
+                    "n_ref": 41800
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00061-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00061-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6171532662045236,
+                    "FN": 35677,
+                    "FP": 2154,
+                    "IoU": 0.4462918782840332,
+                    "TN": 8859677,
+                    "TP": 30492,
+                    "n_pred": 32646,
+                    "n_ref": 66169
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00098-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00098-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9737908673331532,
+                    "FN": 6042,
+                    "FP": 2106,
+                    "IoU": 0.9489204844655081,
+                    "TN": 8768484,
+                    "TP": 151368,
+                    "n_pred": 153474,
+                    "n_ref": 157410
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00098-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00098-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8058470458535789,
+                    "FN": 3084,
+                    "FP": 1671,
+                    "IoU": 0.6748273268139233,
+                    "TN": 8913377,
+                    "TP": 9868,
+                    "n_pred": 11539,
+                    "n_ref": 12952
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00102-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00102-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9696881375692218,
+                    "FN": 1670,
+                    "FP": 3530,
+                    "IoU": 0.9411598302687412,
+                    "TN": 8839625,
+                    "TP": 83175,
+                    "n_pred": 86705,
+                    "n_ref": 84845
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00115-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00115-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9781118634942328,
+                    "FN": 5388,
+                    "FP": 954,
+                    "IoU": 0.9571613844532707,
+                    "TN": 8779956,
+                    "TP": 141702,
+                    "n_pred": 142656,
+                    "n_ref": 147090
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00118-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00118-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9553372231745868,
+                    "FN": 10393,
+                    "FP": 9486,
+                    "IoU": 0.9144934081768716,
+                    "TN": 8695515,
+                    "TP": 212606,
+                    "n_pred": 222092,
+                    "n_ref": 222999
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00123-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00123-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9615688469008197,
+                    "FN": 10992,
+                    "FP": 3018,
+                    "IoU": 0.925982280126163,
+                    "TN": 8738721,
+                    "TP": 175269,
+                    "n_pred": 178287,
+                    "n_ref": 186261
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00137-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00137-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8997992822820996,
+                    "FN": 6813,
+                    "FP": 1424,
+                    "IoU": 0.8178501138851418,
+                    "TN": 8882779,
+                    "TP": 36984,
+                    "n_pred": 38408,
+                    "n_ref": 43797
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00152-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00152-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9429607713055732,
+                    "FN": 4052,
+                    "FP": 7727,
+                    "IoU": 0.8920773663908816,
+                    "TN": 8818857,
+                    "TP": 97364,
+                    "n_pred": 105091,
+                    "n_ref": 101416
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00154-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00154-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9800085070182901,
+                    "FN": 91,
+                    "FP": 5643,
+                    "IoU": 0.9608006672226855,
+                    "TN": 8781722,
+                    "TP": 140544,
+                    "n_pred": 146187,
+                    "n_ref": 140635
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00156-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00156-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9672989751020246,
+                    "FN": 4463,
+                    "FP": 5377,
+                    "IoU": 0.9366689407494175,
+                    "TN": 8772626,
+                    "TP": 145534,
+                    "n_pred": 150911,
+                    "n_ref": 149997
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00158-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00158-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9572166976745963,
+                    "FN": 399,
+                    "FP": 10800,
+                    "IoU": 0.9179440211019929,
+                    "TN": 8791520,
+                    "TP": 125281,
+                    "n_pred": 136081,
+                    "n_ref": 125680
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00160-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00160-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9116336594415463,
+                    "FN": 5447,
+                    "FP": 5699,
+                    "IoU": 0.8376165501165501,
+                    "TN": 8859360,
+                    "TP": 57494,
+                    "n_pred": 63193,
+                    "n_ref": 62941
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00171-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00171-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9577549575070822,
+                    "FN": 2502,
+                    "FP": 9428,
+                    "IoU": 0.9189345292698672,
+                    "TN": 8780835,
+                    "TP": 135235,
+                    "n_pred": 144663,
+                    "n_ref": 137737
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00172-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00172-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9702061211742661,
+                    "FN": 904,
+                    "FP": 1958,
+                    "IoU": 0.942136228543701,
+                    "TN": 8878539,
+                    "TP": 46599,
+                    "n_pred": 48557,
+                    "n_ref": 47503
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00194-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00194-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9902437701673039,
+                    "FN": 981,
+                    "FP": 818,
+                    "IoU": 0.9806760690462636,
+                    "TN": 8834903,
+                    "TP": 91298,
+                    "n_pred": 92116,
+                    "n_ref": 92279
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00196-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00196-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9757879174786641,
+                    "FN": 2579,
+                    "FP": 4627,
+                    "IoU": 0.9527205684554467,
+                    "TN": 8775587,
+                    "TP": 145207,
+                    "n_pred": 149834,
+                    "n_ref": 147786
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00201-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00201-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9569389988146257,
+                    "FN": 1363,
+                    "FP": 2415,
+                    "IoU": 0.9174333981685863,
+                    "TN": 8882243,
+                    "TP": 41979,
+                    "n_pred": 44394,
+                    "n_ref": 43342
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00209-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00209-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6690681284259984,
+                    "FN": 14287,
+                    "FP": 504,
+                    "IoU": 0.5027065191809837,
+                    "TN": 8898257,
+                    "TP": 14952,
+                    "n_pred": 15456,
+                    "n_ref": 29239
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00227-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00227-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9660663987087381,
+                    "FN": 2909,
+                    "FP": 2452,
+                    "IoU": 0.9343601924748693,
+                    "TN": 8846327,
+                    "TP": 76312,
+                    "n_pred": 78764,
+                    "n_ref": 79221
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00231-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00231-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.980765623827744,
+                    "FN": 414,
+                    "FP": 3688,
+                    "IoU": 0.9622572067388644,
+                    "TN": 8819317,
+                    "TP": 104581,
+                    "n_pred": 108269,
+                    "n_ref": 104995
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00235-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00235-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9701227629048957,
+                    "FN": 167,
+                    "FP": 3065,
+                    "IoU": 0.9419790320264254,
+                    "TN": 8872296,
+                    "TP": 52472,
+                    "n_pred": 55537,
+                    "n_ref": 52639
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00237-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00237-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9669750441959589,
+                    "FN": 428,
+                    "FP": 8707,
+                    "IoU": 0.9360616495884428,
+                    "TN": 8785128,
+                    "TP": 133737,
+                    "n_pred": 142444,
+                    "n_ref": 134165
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00261-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00261-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9718550321646484,
+                    "FN": 1574,
+                    "FP": 2333,
+                    "IoU": 0.945250973907682,
+                    "TN": 8856638,
+                    "TP": 67455,
+                    "n_pred": 69788,
+                    "n_ref": 69029
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00275-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00275-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9352547648402288,
+                    "FN": 2710,
+                    "FP": 13307,
+                    "IoU": 0.8783836113621005,
+                    "TN": 8796299,
+                    "TP": 115684,
+                    "n_pred": 128991,
+                    "n_ref": 118394
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00290-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00290-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9054551833011752,
+                    "FN": 906,
+                    "FP": 6101,
+                    "IoU": 0.8272435897435897,
+                    "TN": 8887440,
+                    "TP": 33553,
+                    "n_pred": 39654,
+                    "n_ref": 34459
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00293-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00293-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9720932452860211,
+                    "FN": 3106,
+                    "FP": 5663,
+                    "IoU": 0.9457017777420014,
+                    "TN": 8766503,
+                    "TP": 152728,
+                    "n_pred": 158391,
+                    "n_ref": 155834
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00304-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00304-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9168952699162233,
+                    "FN": 9050,
+                    "FP": 4431,
+                    "IoU": 0.846543500779747,
+                    "TN": 8840151,
+                    "TP": 74368,
+                    "n_pred": 78799,
+                    "n_ref": 83418
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00324-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00324-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9752155280061536,
+                    "FN": 834,
+                    "FP": 4128,
+                    "IoU": 0.9516298838025423,
+                    "TN": 8825416,
+                    "TP": 97622,
+                    "n_pred": 101750,
+                    "n_ref": 98456
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00327-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00327-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8877311611901868,
+                    "FN": 224,
+                    "FP": 9107,
+                    "IoU": 0.7981264333001601,
+                    "TN": 8881778,
+                    "TP": 36891,
+                    "n_pred": 45998,
+                    "n_ref": 37115
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00332-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00332-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.947395042994436,
+                    "FN": 124,
+                    "FP": 6532,
+                    "IoU": 0.9000480538202787,
+                    "TN": 8861408,
+                    "TP": 59936,
+                    "n_pred": 66468,
+                    "n_ref": 60060
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00350-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00350-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9812539113614382,
+                    "FN": 302,
+                    "FP": 1016,
+                    "IoU": 0.9631977214977802,
+                    "TN": 8892187,
+                    "TP": 34495,
+                    "n_pred": 35511,
+                    "n_ref": 34797
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00356-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00356-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9647225513613823,
+                    "FN": 1454,
+                    "FP": 4173,
+                    "IoU": 0.9318492860343721,
+                    "TN": 8845433,
+                    "TP": 76940,
+                    "n_pred": 81113,
+                    "n_ref": 78394
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00360-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00360-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9844637919487563,
+                    "FN": 433,
+                    "FP": 1910,
+                    "IoU": 0.9694029460927706,
+                    "TN": 8851424,
+                    "TP": 74233,
+                    "n_pred": 76143,
+                    "n_ref": 74666
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00364-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00364-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9598604805669361,
+                    "FN": 180,
+                    "FP": 2720,
+                    "IoU": 0.9228189705647523,
+                    "TN": 8890426,
+                    "TP": 34674,
+                    "n_pred": 37394,
+                    "n_ref": 34854
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00376-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00376-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9202066206448779,
+                    "FN": 5248,
+                    "FP": 3109,
+                    "IoU": 0.8522062074453974,
+                    "TN": 8871455,
+                    "TP": 48188,
+                    "n_pred": 51297,
+                    "n_ref": 53436
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00382-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00382-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9523061113461887,
+                    "FN": 831,
+                    "FP": 747,
+                    "IoU": 0.9089545349642281,
+                    "TN": 8910668,
+                    "TP": 15754,
+                    "n_pred": 16501,
+                    "n_ref": 16585
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00389-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00389-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9696627249228925,
+                    "FN": 4283,
+                    "FP": 5435,
+                    "IoU": 0.9411119527344342,
+                    "TN": 8762975,
+                    "TP": 155307,
+                    "n_pred": 160742,
+                    "n_ref": 159590
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00397-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00397-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9576067452317114,
+                    "FN": 1347,
+                    "FP": 10891,
+                    "IoU": 0.9186616863177763,
+                    "TN": 8777542,
+                    "TP": 138220,
+                    "n_pred": 149111,
+                    "n_ref": 139567
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00429-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00429-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9264425335831669,
+                    "FN": 12459,
+                    "FP": 13529,
+                    "IoU": 0.862965013578001,
+                    "TN": 8738355,
+                    "TP": 163657,
+                    "n_pred": 177186,
+                    "n_ref": 176116
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00432-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00432-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.982557385263026,
+                    "FN": 942,
+                    "FP": 6856,
+                    "IoU": 0.9657128284498223,
+                    "TN": 8700568,
+                    "TP": 219634,
+                    "n_pred": 226490,
+                    "n_ref": 220576
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00449-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00449-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.988016952628341,
+                    "FN": 1903,
+                    "FP": 1603,
+                    "IoU": 0.976317691481529,
+                    "TN": 8779957,
+                    "TP": 144537,
+                    "n_pred": 146140,
+                    "n_ref": 146440
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00451-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00451-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9248086286741509,
+                    "FN": 19580,
+                    "FP": 5684,
+                    "IoU": 0.8601339755300891,
+                    "TN": 8747370,
+                    "TP": 155366,
+                    "n_pred": 161050,
+                    "n_ref": 174946
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00483-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00483-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9829195996510223,
+                    "FN": 1275,
+                    "FP": 5029,
+                    "IoU": 0.9664128807454806,
+                    "TN": 8740309,
+                    "TP": 181387,
+                    "n_pred": 186416,
+                    "n_ref": 182662
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00483-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00483-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8411745494492444,
+                    "FN": 52492,
+                    "FP": 1002,
+                    "IoU": 0.7258854636385996,
+                    "TN": 8732848,
+                    "TP": 141658,
+                    "n_pred": 142660,
+                    "n_ref": 194150
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00501-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00501-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9691264116836397,
+                    "FN": 2167,
+                    "FP": 1283,
+                    "IoU": 0.9401020868780166,
+                    "TN": 8870402,
+                    "TP": 54148,
+                    "n_pred": 55431,
+                    "n_ref": 56315
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00518-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00518-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9902481346520909,
+                    "FN": 461,
+                    "FP": 944,
+                    "IoU": 0.9806846301897169,
+                    "TN": 8855260,
+                    "TP": 71335,
+                    "n_pred": 72279,
+                    "n_ref": 71796
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00518-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00518-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9743468926786603,
+                    "FN": 3628,
+                    "FP": 5083,
+                    "IoU": 0.9499770299758815,
+                    "TN": 8753860,
+                    "TP": 165429,
+                    "n_pred": 170512,
+                    "n_ref": 169057
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00532-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00532-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9573137465471397,
+                    "FN": 3155,
+                    "FP": 4278,
+                    "IoU": 0.9181225353043555,
+                    "TN": 8837218,
+                    "TP": 83349,
+                    "n_pred": 87627,
+                    "n_ref": 86504
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00542-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00542-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9210775084800966,
+                    "FN": 1368,
+                    "FP": 8567,
+                    "IoU": 0.8537012767085365,
+                    "TN": 8860091,
+                    "TP": 57974,
+                    "n_pred": 66541,
+                    "n_ref": 59342
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00570-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00570-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9685283744789996,
+                    "FN": 2219,
+                    "FP": 2689,
+                    "IoU": 0.938977234579567,
+                    "TN": 8847571,
+                    "TP": 75521,
+                    "n_pred": 78210,
+                    "n_ref": 77740
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00594-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00594-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6499559471365639,
+                    "FN": 45206,
+                    "FP": 2470,
+                    "IoU": 0.481433139724597,
+                    "TN": 8836062,
+                    "TP": 44262,
+                    "n_pred": 46732,
+                    "n_ref": 89468
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00611-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00611-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.924235059664131,
+                    "FN": 12257,
+                    "FP": 213,
+                    "IoU": 0.8591422019903082,
+                    "TN": 8839471,
+                    "TP": 76059,
+                    "n_pred": 76272,
+                    "n_ref": 88316
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00611-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00611-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8622156385567665,
+                    "FN": 6205,
+                    "FP": 306,
+                    "IoU": 0.7578023286091582,
+                    "TN": 8901117,
+                    "TP": 20372,
+                    "n_pred": 20678,
+                    "n_ref": 26577
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00615-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00615-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9555263551072478,
+                    "FN": 4188,
+                    "FP": 7421,
+                    "IoU": 0.9148400821596244,
+                    "TN": 8791680,
+                    "TP": 124711,
+                    "n_pred": 132132,
+                    "n_ref": 128899
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00619-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00619-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8794776290982664,
+                    "FN": 4930,
+                    "FP": 312,
+                    "IoU": 0.784881812212738,
+                    "TN": 8903632,
+                    "TP": 19126,
+                    "n_pred": 19438,
+                    "n_ref": 24056
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00619-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00619-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9561733272673578,
+                    "FN": 5745,
+                    "FP": 5237,
+                    "IoU": 0.916026915430494,
+                    "TN": 8797220,
+                    "TP": 119798,
+                    "n_pred": 125035,
+                    "n_ref": 125543
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00656-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00656-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9352301255230125,
+                    "FN": 10391,
+                    "FP": 14377,
+                    "IoU": 0.8783401446086136,
+                    "TN": 8724416,
+                    "TP": 178816,
+                    "n_pred": 193193,
+                    "n_ref": 189207
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00668-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00668-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9731791842237139,
+                    "FN": 4086,
+                    "FP": 3514,
+                    "IoU": 0.9477595012407118,
+                    "TN": 8782519,
+                    "TP": 137881,
+                    "n_pred": 141395,
+                    "n_ref": 141967
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00689-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00689-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9682291406670327,
+                    "FN": 10448,
+                    "FP": 1008,
+                    "IoU": 0.9384148931023175,
+                    "TN": 8741981,
+                    "TP": 174563,
+                    "n_pred": 175571,
+                    "n_ref": 185011
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00689-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00689-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7972196675863356,
+                    "FN": 10655,
+                    "FP": 19773,
+                    "IoU": 0.6628140202347048,
+                    "TN": 8837759,
+                    "TP": 59813,
+                    "n_pred": 79586,
+                    "n_ref": 70468
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00694-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00694-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9517521770582472,
+                    "FN": 4011,
+                    "FP": 6527,
+                    "IoU": 0.907945770292463,
+                    "TN": 8813524,
+                    "TP": 103938,
+                    "n_pred": 110465,
+                    "n_ref": 107949
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00694-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00694-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9070986007352069,
+                    "FN": 17347,
+                    "FP": 7723,
+                    "IoU": 0.8299912520428854,
+                    "TN": 8780537,
+                    "TP": 122393,
+                    "n_pred": 130116,
+                    "n_ref": 139740
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00697-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00697-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9566734215440855,
+                    "FN": 8738,
+                    "FP": 2166,
+                    "IoU": 0.9169453182721823,
+                    "TN": 8796713,
+                    "TP": 120383,
+                    "n_pred": 122549,
+                    "n_ref": 129121
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00698-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00698-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9617952757441702,
+                    "FN": 2993,
+                    "FP": 4840,
+                    "IoU": 0.9264023301700648,
+                    "TN": 8821570,
+                    "TP": 98597,
+                    "n_pred": 103437,
+                    "n_ref": 101590
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00709-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00709-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9717381103308609,
+                    "FN": 725,
+                    "FP": 6141,
+                    "IoU": 0.9450297828732467,
+                    "TN": 8803096,
+                    "TP": 118038,
+                    "n_pred": 124179,
+                    "n_ref": 118763
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00724-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00724-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9709458987783595,
+                    "FN": 3492,
+                    "FP": 2751,
+                    "IoU": 0.9435324125580007,
+                    "TN": 8817441,
+                    "TP": 104316,
+                    "n_pred": 107067,
+                    "n_ref": 107808
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00727-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00727-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.972153564787536,
+                    "FN": 6971,
+                    "FP": 307,
+                    "IoU": 0.9458159618820726,
+                    "TN": 8793680,
+                    "TP": 127042,
+                    "n_pred": 127349,
+                    "n_ref": 134013
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00727-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00727-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9732644378462448,
+                    "FN": 2450,
+                    "FP": 1710,
+                    "IoU": 0.9479212308616783,
+                    "TN": 8848121,
+                    "TP": 75719,
+                    "n_pred": 77429,
+                    "n_ref": 78169
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00730-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00730-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9869502736744226,
+                    "FN": 276,
+                    "FP": 2194,
+                    "IoU": 0.9742367507014488,
+                    "TN": 8832127,
+                    "TP": 93403,
+                    "n_pred": 95597,
+                    "n_ref": 93679
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00730-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00730-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9790909362222819,
+                    "FN": 2156,
+                    "FP": 1347,
+                    "IoU": 0.9590383423566693,
+                    "TN": 8842481,
+                    "TP": 82016,
+                    "n_pred": 83363,
+                    "n_ref": 84172
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00744-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00744-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9542599136238712,
+                    "FN": 1433,
+                    "FP": 5091,
+                    "IoU": 0.912521118828609,
+                    "TN": 8853422,
+                    "TP": 68054,
+                    "n_pred": 73145,
+                    "n_ref": 69487
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00747-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00747-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9731800766283525,
+                    "FN": 6560,
+                    "FP": 1441,
+                    "IoU": 0.9477611940298507,
+                    "TN": 8774838,
+                    "TP": 145161,
+                    "n_pred": 146602,
+                    "n_ref": 151721
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00774-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00774-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9871414680838818,
+                    "FN": 1869,
+                    "FP": 2376,
+                    "IoU": 0.9746094217288322,
+                    "TN": 8760812,
+                    "TP": 162943,
+                    "n_pred": 165319,
+                    "n_ref": 164812
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00774-001.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00774-001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9044721630666261,
+                    "FN": 6853,
+                    "FP": 1939,
+                    "IoU": 0.8256039988891974,
+                    "TN": 8877586,
+                    "TP": 41622,
+                    "n_pred": 43561,
+                    "n_ref": 48475
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00778-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00778-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9385978548111301,
+                    "FN": 1962,
+                    "FP": 1988,
+                    "IoU": 0.8842999414176919,
+                    "TN": 8893860,
+                    "TP": 30190,
+                    "n_pred": 32178,
+                    "n_ref": 32152
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00795-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00795-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9814156500686257,
+                    "FN": 2746,
+                    "FP": 1614,
+                    "IoU": 0.9635094532276558,
+                    "TN": 8808517,
+                    "TP": 115123,
+                    "n_pred": 116737,
+                    "n_ref": 117869
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00811-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00811-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8773122586698423,
+                    "FN": 12621,
+                    "FP": 4378,
+                    "IoU": 0.7814392429638582,
+                    "TN": 8850223,
+                    "TP": 60778,
+                    "n_pred": 65156,
+                    "n_ref": 73399
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-00834-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-00834-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9464426038275504,
+                    "FN": 10373,
+                    "FP": 600,
+                    "IoU": 0.898330368393744,
+                    "TN": 8820072,
+                    "TP": 96955,
+                    "n_pred": 97555,
+                    "n_ref": 107328
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01005-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01005-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.943483626008543,
+                    "FN": 2489,
+                    "FP": 3465,
+                    "IoU": 0.8930137281679005,
+                    "TN": 8872348,
+                    "TP": 49698,
+                    "n_pred": 53163,
+                    "n_ref": 52187
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01010-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01010-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.980432260498838,
+                    "FN": 1784,
+                    "FP": 3765,
+                    "IoU": 0.9616156166127113,
+                    "TN": 8783436,
+                    "TP": 139015,
+                    "n_pred": 142780,
+                    "n_ref": 140799
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01022-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01022-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9382960597854318,
+                    "FN": 5408,
+                    "FP": 3501,
+                    "IoU": 0.8837643190773165,
+                    "TN": 8851354,
+                    "TP": 67737,
+                    "n_pred": 71238,
+                    "n_ref": 73145
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01028-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01028-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9510037556402151,
+                    "FN": 3487,
+                    "FP": 5580,
+                    "IoU": 0.9065845190138161,
+                    "TN": 8830939,
+                    "TP": 87994,
+                    "n_pred": 93574,
+                    "n_ref": 91481
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01041-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01041-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8398704569989205,
+                    "FN": 69,
+                    "FP": 2156,
+                    "IoU": 0.7239454094292804,
+                    "TN": 8919940,
+                    "TP": 5835,
+                    "n_pred": 7991,
+                    "n_ref": 5904
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01054-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01054-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9697648295104541,
+                    "FN": 2686,
+                    "FP": 5658,
+                    "IoU": 0.9413043325337479,
+                    "TN": 8785843,
+                    "TP": 133813,
+                    "n_pred": 139471,
+                    "n_ref": 136499
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01062-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01062-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9714109657624812,
+                    "FN": 822,
+                    "FP": 10313,
+                    "IoU": 0.9444111626978183,
+                    "TN": 8727690,
+                    "TP": 189175,
+                    "n_pred": 199488,
+                    "n_ref": 189997
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01063-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01063-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9846247310888353,
+                    "FN": 1171,
+                    "FP": 2524,
+                    "IoU": 0.9697151006491378,
+                    "TN": 8805992,
+                    "TP": 118313,
+                    "n_pred": 120837,
+                    "n_ref": 119484
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01083-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01083-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.938170008670332,
+                    "FN": 10284,
+                    "FP": 2053,
+                    "IoU": 0.8835406951498103,
+                    "TN": 8822066,
+                    "TP": 93597,
+                    "n_pred": 95650,
+                    "n_ref": 103881
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01087-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01087-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8686434528261865,
+                    "FN": 21988,
+                    "FP": 1544,
+                    "IoU": 0.7677893012561797,
+                    "TN": 8826661,
+                    "TP": 77807,
+                    "n_pred": 79351,
+                    "n_ref": 99795
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01104-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01104-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9611596040376457,
+                    "FN": 2771,
+                    "FP": 3601,
+                    "IoU": 0.9252235548149366,
+                    "TN": 8842786,
+                    "TP": 78842,
+                    "n_pred": 82443,
+                    "n_ref": 81613
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01115-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01115-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9752321488300973,
+                    "FN": 880,
+                    "FP": 675,
+                    "IoU": 0.9516615375050514,
+                    "TN": 8895831,
+                    "TP": 30614,
+                    "n_pred": 31289,
+                    "n_ref": 31494
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01117-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01117-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9682332651307697,
+                    "FN": 251,
+                    "FP": 4888,
+                    "IoU": 0.9384226418711656,
+                    "TN": 8844544,
+                    "TP": 78317,
+                    "n_pred": 83205,
+                    "n_ref": 78568
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01123-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01123-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.986371978601273,
+                    "FN": 456,
+                    "FP": 1987,
+                    "IoU": 0.9731104091224285,
+                    "TN": 8837147,
+                    "TP": 88410,
+                    "n_pred": 90397,
+                    "n_ref": 88866
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01126-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01126-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9638855034193242,
+                    "FN": 5429,
+                    "FP": 3105,
+                    "IoU": 0.9302885989919866,
+                    "TN": 8805581,
+                    "TP": 113885,
+                    "n_pred": 116990,
+                    "n_ref": 119314
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01146-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01146-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.807962087614598,
+                    "FN": 30075,
+                    "FP": 1492,
+                    "IoU": 0.6777989854347627,
+                    "TN": 8830027,
+                    "TP": 66406,
+                    "n_pred": 67898,
+                    "n_ref": 96481
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01150-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01150-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9730295807119691,
+                    "FN": 2159,
+                    "FP": 1292,
+                    "IoU": 0.9474757621417591,
+                    "TN": 8862297,
+                    "TP": 62252,
+                    "n_pred": 63544,
+                    "n_ref": 64411
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01168-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01168-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.953772357885843,
+                    "FN": 4253,
+                    "FP": 9644,
+                    "IoU": 0.9116298590223771,
+                    "TN": 8770741,
+                    "TP": 143362,
+                    "n_pred": 153006,
+                    "n_ref": 147615
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01188-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01188-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9661244511344168,
+                    "FN": 1457,
+                    "FP": 7500,
+                    "IoU": 0.9344688073864343,
+                    "TN": 8791317,
+                    "TP": 127726,
+                    "n_pred": 135226,
+                    "n_ref": 129183
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01195-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01195-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.864196047008547,
+                    "FN": 1430,
+                    "FP": 18908,
+                    "IoU": 0.7608672647532598,
+                    "TN": 8842951,
+                    "TP": 64711,
+                    "n_pred": 83619,
+                    "n_ref": 66141
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01196-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01196-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9101048794595598,
+                    "FN": 4643,
+                    "FP": 3594,
+                    "IoU": 0.8350389521959426,
+                    "TN": 8878067,
+                    "TP": 41696,
+                    "n_pred": 45290,
+                    "n_ref": 46339
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01213-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01213-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9035574049112114,
+                    "FN": 3309,
+                    "FP": 13147,
+                    "IoU": 0.8240809039692976,
+                    "TN": 8834457,
+                    "TP": 77087,
+                    "n_pred": 90234,
+                    "n_ref": 80396
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01214-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01214-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9502878653675819,
+                    "FN": 5125,
+                    "FP": 7447,
+                    "IoU": 0.9052842527159582,
+                    "TN": 8795266,
+                    "TP": 120162,
+                    "n_pred": 127609,
+                    "n_ref": 125287
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01215-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01215-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9175941732952639,
+                    "FN": 4102,
+                    "FP": 18006,
+                    "IoU": 0.8477358035745033,
+                    "TN": 8782805,
+                    "TP": 123087,
+                    "n_pred": 141093,
+                    "n_ref": 127189
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01216-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01216-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9113622167963205,
+                    "FN": 9965,
+                    "FP": 13450,
+                    "IoU": 0.8371583559357396,
+                    "TN": 8784210,
+                    "TP": 120375,
+                    "n_pred": 133825,
+                    "n_ref": 130340
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01219-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01219-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9505903882183783,
+                    "FN": 2667,
+                    "FP": 4137,
+                    "IoU": 0.9058335063317418,
+                    "TN": 8855745,
+                    "TP": 65451,
+                    "n_pred": 69588,
+                    "n_ref": 68118
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01223-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01223-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9213676278258703,
+                    "FN": 4138,
+                    "FP": 2175,
+                    "IoU": 0.8541998660477147,
+                    "TN": 8884701,
+                    "TP": 36986,
+                    "n_pred": 39161,
+                    "n_ref": 41124
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01224-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01224-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7406684530902072,
+                    "FN": 22959,
+                    "FP": 25140,
+                    "IoU": 0.5881441268645214,
+                    "TN": 8811214,
+                    "TP": 68687,
+                    "n_pred": 93827,
+                    "n_ref": 91646
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01245-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01245-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9626784768034847,
+                    "FN": 6841,
+                    "FP": 836,
+                    "IoU": 0.9280425164967007,
+                    "TN": 8821312,
+                    "TP": 99011,
+                    "n_pred": 99847,
+                    "n_ref": 105852
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01291-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01291-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9670682645775801,
+                    "FN": 1436,
+                    "FP": 4777,
+                    "IoU": 0.9362363759518874,
+                    "TN": 8830562,
+                    "TP": 91225,
+                    "n_pred": 96002,
+                    "n_ref": 92661
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01292-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01292-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9159664747039263,
+                    "FN": 1621,
+                    "FP": 6390,
+                    "IoU": 0.8449613903350042,
+                    "TN": 8876329,
+                    "TP": 43660,
+                    "n_pred": 50050,
+                    "n_ref": 45281
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01300-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01300-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9598051157125457,
+                    "FN": 135,
+                    "FP": 492,
+                    "IoU": 0.9227166276346604,
+                    "TN": 8919887,
+                    "TP": 7486,
+                    "n_pred": 7978,
+                    "n_ref": 7621
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01301-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01301-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7619047619047619,
+                    "FN": 352,
+                    "FP": 3503,
+                    "IoU": 0.6153846153846154,
+                    "TN": 8917977,
+                    "TP": 6168,
+                    "n_pred": 9671,
+                    "n_ref": 6520
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01308-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01308-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8957206876700268,
+                    "FN": 18128,
+                    "FP": 348,
+                    "IoU": 0.8111359849530293,
+                    "TN": 8830173,
+                    "TP": 79351,
+                    "n_pred": 79699,
+                    "n_ref": 97479
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01311-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01311-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9840925092783751,
+                    "FN": 451,
+                    "FP": 2215,
+                    "IoU": 0.9686831904146599,
+                    "TN": 8842870,
+                    "TP": 82464,
+                    "n_pred": 84679,
+                    "n_ref": 82915
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01312-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01312-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9444762752651018,
+                    "FN": 1962,
+                    "FP": 4337,
+                    "IoU": 0.8947939805922536,
+                    "TN": 8868127,
+                    "TP": 53574,
+                    "n_pred": 57911,
+                    "n_ref": 55536
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01330-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01330-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9654896052062129,
+                    "FN": 1045,
+                    "FP": 1108,
+                    "IoU": 0.9332816857762628,
+                    "TN": 8895730,
+                    "TP": 30117,
+                    "n_pred": 31225,
+                    "n_ref": 31162
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01347-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01347-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.819203823942723,
+                    "FN": 34821,
+                    "FP": 431,
+                    "IoU": 0.6937724228393721,
+                    "TN": 8812883,
+                    "TP": 79865,
+                    "n_pred": 80296,
+                    "n_ref": 114686
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01351-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01351-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9706084191145703,
+                    "FN": 2249,
+                    "FP": 1263,
+                    "IoU": 0.9428952374758134,
+                    "TN": 8866499,
+                    "TP": 57989,
+                    "n_pred": 59252,
+                    "n_ref": 60238
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01352-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01352-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9783255988626305,
+                    "FN": 4105,
+                    "FP": 743,
+                    "IoU": 0.9575708246908394,
+                    "TN": 8813739,
+                    "TP": 109413,
+                    "n_pred": 110156,
+                    "n_ref": 113518
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01361-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01361-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9803331270046706,
+                    "FN": 1087,
+                    "FP": 4505,
+                    "IoU": 0.9614249054937778,
+                    "TN": 8783036,
+                    "TP": 139372,
+                    "n_pred": 143877,
+                    "n_ref": 140459
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01374-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01374-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9767817447715829,
+                    "FN": 1383,
+                    "FP": 1176,
+                    "IoU": 0.9546171989997695,
+                    "TN": 8871613,
+                    "TP": 53828,
+                    "n_pred": 55004,
+                    "n_ref": 55211
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01376-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01376-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9860936491216147,
+                    "FN": 2438,
+                    "FP": 836,
+                    "IoU": 0.9725687665999179,
+                    "TN": 8808647,
+                    "TP": 116079,
+                    "n_pred": 116915,
+                    "n_ref": 118517
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01381-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01381-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.947971159673011,
+                    "FN": 3592,
+                    "FP": 615,
+                    "IoU": 0.9010885665248161,
+                    "TN": 8885467,
+                    "TP": 38326,
+                    "n_pred": 38941,
+                    "n_ref": 41918
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01382-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01382-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9831665696162583,
+                    "FN": 791,
+                    "FP": 2996,
+                    "IoU": 0.9668904859326094,
+                    "TN": 8813622,
+                    "TP": 110591,
+                    "n_pred": 113587,
+                    "n_ref": 111382
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01384-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01384-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9004902307512337,
+                    "FN": 9546,
+                    "FP": 8743,
+                    "IoU": 0.8189924782264449,
+                    "TN": 8826960,
+                    "TP": 82751,
+                    "n_pred": 91494,
+                    "n_ref": 92297
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01387-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01387-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9732719607008857,
+                    "FN": 2400,
+                    "FP": 364,
+                    "IoU": 0.9479355033152501,
+                    "TN": 8874912,
+                    "TP": 50324,
+                    "n_pred": 50688,
+                    "n_ref": 52724
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01390-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01390-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9661349006437168,
+                    "FN": 1013,
+                    "FP": 4190,
+                    "IoU": 0.934488359501895,
+                    "TN": 8848579,
+                    "TP": 74218,
+                    "n_pred": 78408,
+                    "n_ref": 75231
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01402-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01402-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9774981902713064,
+                    "FN": 2519,
+                    "FP": 4102,
+                    "IoU": 0.9559867581365666,
+                    "TN": 8777568,
+                    "TP": 143811,
+                    "n_pred": 147913,
+                    "n_ref": 146330
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01403-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01403-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9349145678007567,
+                    "FN": 5706,
+                    "FP": 21164,
+                    "IoU": 0.8777836402008588,
+                    "TN": 8708144,
+                    "TP": 192986,
+                    "n_pred": 214150,
+                    "n_ref": 198692
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01425-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01425-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9322005847630607,
+                    "FN": 12519,
+                    "FP": 5916,
+                    "IoU": 0.8730109526761728,
+                    "TN": 8782830,
+                    "TP": 126735,
+                    "n_pred": 132651,
+                    "n_ref": 139254
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01428-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01428-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8746358069495701,
+                    "FN": 6861,
+                    "FP": 5402,
+                    "IoU": 0.7772024490834105,
+                    "TN": 8872959,
+                    "TP": 42778,
+                    "n_pred": 48180,
+                    "n_ref": 49639
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01431-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01431-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8661643656635164,
+                    "FN": 608,
+                    "FP": 8611,
+                    "IoU": 0.7639240992548206,
+                    "TN": 8888949,
+                    "TP": 29832,
+                    "n_pred": 38443,
+                    "n_ref": 30440
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01434-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01434-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.939719311945511,
+                    "FN": 16560,
+                    "FP": 2893,
+                    "IoU": 0.8862929623567921,
+                    "TN": 8756920,
+                    "TP": 151627,
+                    "n_pred": 154520,
+                    "n_ref": 168187
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01444-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01444-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8803727956857919,
+                    "FN": 12353,
+                    "FP": 380,
+                    "IoU": 0.7863088644983721,
+                    "TN": 8868414,
+                    "TP": 46853,
+                    "n_pred": 47233,
+                    "n_ref": 59206
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01454-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01454-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9662761155706912,
+                    "FN": 5025,
+                    "FP": 4957,
+                    "IoU": 0.9347526260401211,
+                    "TN": 8775013,
+                    "TP": 143005,
+                    "n_pred": 147962,
+                    "n_ref": 148030
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01466-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01466-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7148164967179953,
+                    "FN": 12758,
+                    "FP": 1058,
+                    "IoU": 0.556198001991584,
+                    "TN": 8896869,
+                    "TP": 17315,
+                    "n_pred": 18373,
+                    "n_ref": 30073
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01482-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01482-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9529090042399458,
+                    "FN": 10775,
+                    "FP": 4241,
+                    "IoU": 0.9100536706919685,
+                    "TN": 8761056,
+                    "TP": 151928,
+                    "n_pred": 156169,
+                    "n_ref": 162703
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01484-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01484-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9238017891416561,
+                    "FN": 23512,
+                    "FP": 1539,
+                    "IoU": 0.8583937232202412,
+                    "TN": 8751094,
+                    "TP": 151855,
+                    "n_pred": 153394,
+                    "n_ref": 175367
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01515-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01515-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9781876066598787,
+                    "FN": 121,
+                    "FP": 1400,
+                    "IoU": 0.9573064615730085,
+                    "TN": 8892374,
+                    "TP": 34105,
+                    "n_pred": 35505,
+                    "n_ref": 34226
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01520-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01520-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9366007740502265,
+                    "FN": 37987,
+                    "FP": 5849,
+                    "IoU": 0.8807611959785873,
+                    "TN": 8560368,
+                    "TP": 323796,
+                    "n_pred": 329645,
+                    "n_ref": 361783
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01533-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01533-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.969067830017608,
+                    "FN": 822,
+                    "FP": 355,
+                    "IoU": 0.9399918425614358,
+                    "TN": 8908386,
+                    "TP": 18437,
+                    "n_pred": 18792,
+                    "n_ref": 19259
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01610-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01610-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.972017363149803,
+                    "FN": 3813,
+                    "FP": 4432,
+                    "IoU": 0.9455581527409109,
+                    "TN": 8776554,
+                    "TP": 143201,
+                    "n_pred": 147633,
+                    "n_ref": 147014
+                }
+            },
+            "prediction_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_results/Dataset703_GliomaOuter3/nnUNetTrainer_100epochs__nnUNetPlans__3d_fullres/fold_0/validation/BraTS-GLI-01661-000.nii.gz",
+            "reference_file": "${PROJECT_DIR}/resultados_por_paciente/nnunet/nnUNet_preprocessed/Dataset703_GliomaOuter3/gt_segmentations/BraTS-GLI-01661-000.nii.gz"
+        }
+    ]
+}

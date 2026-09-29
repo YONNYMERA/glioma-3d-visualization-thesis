@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or its results, cite the author and thesis title
+  below and identify the repository version or commit used. This citation
+  does not replace the citations required by BraTS, MONAI, nnU-Net, or
+  other third-party components.
+type: software
+title: >-
+  Development of Customized Three-Dimensional Models of Gliomas for
+  Preoperative Anatomical Visualization
+authors:
+  - family-names: Mera Macias
+    given-names: Yonny Josue
+    affiliation: Yachay Tech University
+abstract: >-
+  Research software accompanying a biomedical engineering thesis on binary
+  whole-tumor MRI segmentation, mask-based volumetry, and exploratory
+  three-dimensional anatomical visualization. Includes patient-grouped
+  five-fold evaluation of MONAI U-Net, SegResNet, and nnU-Net on 1250 studies
+  from 1132 BraTS patients. The historical visualization prototype is
+  distinguished from the final benchmark models.
+keywords:
+  - glioma
+  - MRI
+  - segmentation
+  - BraTS
+  - MONAI
+  - nnU-Net
+  - reproducibility
+  - three-dimensional visualization

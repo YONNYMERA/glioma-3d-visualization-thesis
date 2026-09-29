@@ -1,0 +1,31 @@
+{
+  "architecture": "unet",
+  "model_name": "unet_baseline",
+  "fold": 5,
+  "manifest_sha256": "f67351ece0c762564abc2fda59ffa8c2c05483e5a11fecd2a545f947348fc0da",
+  "checkpoint_sha256": "7301cb881050834402501a8cb7daef214b0beb1bad9551c4194bf25cc8de7c46",
+  "evidence": "heldout_with_persisted_training_manifest",
+  "roi": [
+    128,
+    128,
+    128
+  ],
+  "tolerance_mm": 1.0,
+  "device": "cuda",
+  "environment": {
+    "python": "3.10.20",
+    "platform": "Linux-5.4.0-216-generic-x86_64-with-glibc2.41",
+    "torch": "2.5.1+cu121",
+    "monai": "1.5.2",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit_learn": "1.7.2",
+    "nibabel": "5.4.2",
+    "cuda_runtime": "12.1",
+    "gpu": "NVIDIA A100-SXM4-40GB"
+  },
+  "timing_scope": "MONAI_sliding_window_only_after_transfer_FP32_warmup",
+  "evaluation_grid": "RAS_1mm_image_foreground_divisible16",
+  "save_predictions": true,
+  "figures_per_fold": 3
+}
