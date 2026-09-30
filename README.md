@@ -2,7 +2,7 @@
 
 Research repository accompanying **Development of Customized Three-Dimensional Models of Gliomas for Preoperative Anatomical Visualization**, by **Yonny Josue Mera Macias**, Yachay Tech University.
 
-This repository contains the terminal-based CEDIA experiment, its recorded results, reproducible statistical figures, and the historical Streamlit visualization prototype. The experiment evaluates binary whole-tumor segmentation from four MRI modalities using 3D U-Net, SegResNet and nnU-Net.
+This repository contains the terminal-based CEDIA HPC experiment, its recorded results, reproducible statistical figures, and the historical Streamlit visualization prototype. The experiment evaluates binary whole-tumor segmentation from four MRI modalities using 3D U-Net, SegResNet and nnU-Net.
 
 **Research use:** the prototype is not clinically validated. Whole tumor includes edema and does not define a surgical resection margin. The newly evaluated models have not been deployed or validated as replacements for the historical application ensemble.
 
